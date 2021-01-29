@@ -43,6 +43,8 @@ We often work on few products of our own as well. If you are looking to work wit
  - An all paid annual offsite for all of us to get together. We pay for your travel, lodging, accomodation, meals and any group activities.
  - Free beverages, if you are working from one of our offices.
 
+For more details, please checkout [FAQ's](https://github.com/jalantechnologies/handbook/blob/main/faq.md).
+
 ### Performance Review
 We review your performance primarily based on:
  - Your ability to deliver what you commit on time.
