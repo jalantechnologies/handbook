@@ -44,7 +44,7 @@ We use [Gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) bra
 git hf feature start SEQP-10/error_message_wrong_username_password
 ```
 
-We use Hubflow (a set of helper scripts) that does all plumbing work to enforce Gitflow branching model. Hubflow can be installed using following instructions ([for Mac](http://macappstore.org/hubflow/)/[for Linux](https://github.com/tophatmonocle/HubFlow/wiki/Linux)/[for Windows](https://github.com/jalantechnologies/handbook/blob/main/gitFlowWindows.md)).
+We use Hubflow (a set of helper scripts) that does all plumbing work to enforce Gitflow branching model. Hubflow can be installed using following instructions ([for Mac](http://macappstore.org/hubflow/)/[for Linux](https://github.com/tophatmonocle/HubFlow/wiki/Linux)/[for Windows](https://github.com/jalantechnologies/handbook/blob/main/gitflow-windows.md)).
 
 Once all the changes are made and automated tests are written, changes are committed. At this stage, the engineer who made the change goes to Github and raise a pull request (PR). With each PR, they write a detailed description of the changes made, document manual test cases ran, automated tests cases added, and various devices the changes were tested. S/he then assigns relevant engineers to review the code. With each commit, our bot ensure that changes follow coding standards and run all automated tests to ensure the changes do not break existing scenarios. In case it breaks, our system does not allow the commit. Our system automatically deploys just those changes to a new endpoint (for web-based projects). Each PR goes through a detailed code review. Here are a few things a reviewer looks for:
 
