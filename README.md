@@ -35,13 +35,17 @@ We often work on few products of our own as well. If you are looking to work wit
 - Please update appropriate channel in Slack with Progress (What you worked upon), Plan (What you plan to work on), Problems (Any blocking issues) before you start your day at work.
 - Except emergencies, please plan your time off a week before and inform your immediate team, HR and apply them in company's HRMS system.
 
-### Perks
+### Benefits & Perks
  - Competitive salary, paid by 5th of every month.
- - 1 paid, 0.5 sick leave every month with a maximum of 6 unused paid leaves carried forward every year. All unused paid leaves will be encashed at the time of exit.
  - Comprehensive health coverage.
- - Macbooks, if you are working from one of our offices.
+ - Top of the line macbooks & laptops.
+ - Access to learning and skill advancement courses with certification programs.
  - An all paid annual offsite for all of us to get together. We pay for your travel, lodging, accomodation, meals and any group activities.
- - Free beverages, if you are working from one of our offices.
+
+#### Leaves
+ - 1 paid, 0.5 sick leave every month with a maximum of 6 unused paid leaves carried forward every year. All unused paid leaves will be encashed at the time of exit.
+ - 24 weeks paid maternity leave within first year of parenthood, to be taken all together.
+ - 4 week paid paternity leaves within first year of parenthood, can be taken in parts (minimum 1 week at once).
 
 For more details, please checkout [FAQ's](https://github.com/jalantechnologies/handbook/blob/main/faq.md).
 
