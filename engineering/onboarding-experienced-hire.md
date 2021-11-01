@@ -1,6 +1,6 @@
 # Onboarding Experienced Hire
 
-## First Day
+## Day 1
 
 The goal of the first day is to get comfortable with JTC software development process.
 
