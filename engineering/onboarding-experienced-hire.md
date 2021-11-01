@@ -46,7 +46,7 @@ Every team member has their preference but we generally use VSCode. Please also 
 
 2. Create a file `index.js` that contains JS code to print Fibonacci sequence upto n terms (see: [sample code](https://www.programiz.com/javascript/examples/fibonacci-series)). Please make the code well formatted and make sure that it works. Commit the changes to the feature branch.
 
-3. Raise a PR on Github to merge these changes against the develop branch. Please see raising pull request etiquette.
+3. Raise a PR on Github to merge these changes against the develop branch. Please see raising [pull request etiquette](https://github.com/jalantechnologies/handbook/blob/main/engineering/pr-etiquette.md).
 
 4. Ping the link of PR on the `eng-onboarding` Slack channel for review.
 
@@ -195,7 +195,7 @@ Please make sure all PR’s have appropriate automated tests associated with the
 
 #### Step 4: Raise a PR containing changes to update a TODO item.
 
-Please make sure all PR’s have appropriate automated tests associated with the changes .Please ping `eng-onboarding` Slack channel with PR link for review.
+Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `eng-onboarding` Slack channel with PR link for review.
 
 #### Step 5: Raise a PR containing changes to fetch a TODO item.
 
