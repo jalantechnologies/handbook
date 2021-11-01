@@ -1,7 +1,6 @@
 **Jalan Technology Consulting** works with enterprises across the globe to provide great technology solutions. At JTC, there are three types of roles:
 
-- Software Engineers: They work with clients and deliver world-class scalable software solutions. If you joined JTC engineering team, please read [engineering handbook](https://github.com/jalantechnologies/handbook/blob/main/engineering.md) after this handbook.
-- Technology Consultants: They identify opportunities in a sector, work with engineering team to build the proof of concepts, and help clients win.
+- Software Engineers: They work with clients and deliver world-class scalable software solutions. If you joined JTC engineering team, please read [engineering handbook](https://github.com/jalantechnologies/handbook/blob/main/engineering/index.md) after this handbook.
 - Talent Advisors: They build team of passionate people at JTC as well as help them to grow in their career at JTC and beyond.
 
 We are an output driven organization i.e. we focus on results rather than effort and do whatever it takes to honor our commitments. The rest of the document talks about our values and how we function. If you have any feedback on how we can improve, please write to Jai at jjalan@jalantechnologies.com
