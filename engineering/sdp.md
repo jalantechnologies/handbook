@@ -67,6 +67,28 @@ Git:
 - Bump the package version (Eg: `version` field in `package.json` to `<release-version-number>`). Commit that to relese branch created above.
 - Finish the release via `git hf release finish <release-version-number>`. It will open editor twice. On second prompt (associating notes with release tag), copy the release notes from JIRA and paste on second prompt.
 
+
+## Hot Fixes
+
+Hotfixes are meant for releasing fixes against the issues for code which has been already released (basically now merged in master). Hotfixes are strictly meant for fixing live site issues and by no means any major change or feature development should be a part of it. Also, Hotfixes should always be the last resort when something bad happens. Developers should make sure that their changes are tested throughly and are bug free before release is pushed out.
+
+**Process: Hotfix using HubFlow**
+
+Inspired from - https://nvie.com/posts/a-successful-git-branching-model/#creating-the-hotfix-branch
+Our adopted method of developing changes, HubFlow, supports releasing fixes via hotfixes. The process looks like following:
+
+- Create a hotfix branch - `git hf hotfix start 1.0.1`
+- Take a note of the Hotfix branch created - `hotfix/1.0.1`
+- Create a branch for the fix from hotfix branch - `git checkout -b fix_a_livesite_issue hotfix/1.0.1`
+- Add and commit the fix to the checked out branch
+- Push the branch to remote
+- Raise PR for allowing your peers to review the changes. Make sure to set the base branch (the branch were PR will be merged) is set to the hotfix one - `hotfix/1.0.1`
+- Merge PR (Using Squash and Merge) after PR has been reviewed
+- Checkout out the hotfix branch and pull changes - `git checkout hotfix/1.0.1 && git pull`
+- Bump the version number in your version / package manager file (for example `version` in `package.json` file) to `1.0.1` (Assuming it was `1.0.0` before. Following SEMVER for version updates here).
+- Commit the version change - `git commit -m "chore: bumped version"`
+- Finish the hotfix - `git hf hotfix finish 1.0.1`
+
 **Key Communication:**
 
 - Once the changes are released to production, a member of engineering team (often the lead) share the JIRA release notes with rest of the team on Slack.
