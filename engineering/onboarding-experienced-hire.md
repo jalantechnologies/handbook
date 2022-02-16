@@ -70,7 +70,7 @@ Every team member has their preference but we generally use VSCode. Please also 
 
 The goal of this exercise is to ensure that you are familiar with the general architecture that we use to build backend applications and create a simple TODO application using that architecture.
 
-Please start your work day by sending a daily status update to the `eng-onboarding` channel in Slack. Here is a sample. Please continue to send daily status updates beginning every day to `eng-onboarding` Slack channel.
+Please start your work day by sending a daily status update to the `Onboarding (Engineering)` channel in MS Team. Here is a sample. Please continue to send daily status updates beginning every day to `Onboarding (Engineering)` MS Team channel.
 
 ```
 Progress:
@@ -181,26 +181,26 @@ Response body:
 
 1.  Create a repo named `todo-backend` on your personal Github.
 2.  Create a `master` branch (by renaming `main` branch)
-3.  Copy the base code base from [JTC Node Boilerplate](https://github.com/jalantechnologies/boilerplate-node-ts-v1) into master branch.
+3.  Copy the base code base from [JTC Node Boilerplate](https://github.com/jalantechnologies/boilerplate-node-ts) into master branch.
 4.  Create a `develop` branch which is a child of `master` branch.
 5.  Set develop `branch` as default branch. See how to do it [here](https://docs.github.com/en/github/administering-a-repository/changing-the-default-branch).
 
 #### Step 2: Raise a PR containing changes to create a TODO item.
 
-Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `eng-onboarding` Slack channel with PR link for review.
+Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` MS Team channel with PR link for review.
 
 #### Step 3: Raise a PR containing changes to delete a TODO item.
 
-Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `eng-onboarding` Slack channel with PR link for review.
+Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` MS Team channel with PR link for review.
 
 #### Step 4: Raise a PR containing changes to update a TODO item.
 
-Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `eng-onboarding` Slack channel with PR link for review.
+Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` MS Team channel with PR link for review.
 
 #### Step 5: Raise a PR containing changes to fetch a TODO item.
 
-Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `eng-onboarding` Slack channel with PR link for review.
+Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` MS Team channel with PR link for review.
 
 #### Step 6: Raise a PR containing changes to list all TODO items.
 
-Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `eng-onboarding` Slack channel with PR link for review.
+Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` MS Team channel with PR link for review.
