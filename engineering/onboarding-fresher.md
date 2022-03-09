@@ -8,25 +8,26 @@ In order to help you learn MERN stack related technology, we rely on [Odin proje
 
 ## Learning Path
 
-### Fundamentals
+### 1. Fundamentals
 
-**Link**: [https://www.theodinproject.com/paths/foundations/courses/foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+Curriculum Link: [https://www.theodinproject.com/paths/foundations/courses/foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-**Expected time to finish**: ~2 weeks\*
+Expected time to finish: ~2 weeks\*
 
-### Full stack development using Javascript
+### 2. Full stack development using Javascript
 
-**Link**: [https://www.theodinproject.com/paths/full-stack-javascript](https://www.theodinproject.com/paths/full-stack-javascript)
+Curriculum Link: [https://www.theodinproject.com/paths/full-stack-javascript](https://www.theodinproject.com/paths/full-stack-javascript)
 
-**Expected time to finish**:
+Expected time to finish:
 
 -   Javascript: 1.5 weeks\*
 -   React: 2.5 weeks\*
 -   Node: 3.5 weeks\*
 
-\*The above timeline assumes you are putting in at least 8 hours a day, 5 days a week. Before you start working, please make sure you do following:
+NOTE:
 
-\*\*Reminder: Please do not rush through or try to keep things to be done last minute or finish just for the sake of finishing. This is an opportunity for you to build YOUR skills. If you do not give 100%, we have seen over and over that such engineers do not end up performing well when they work on a real product with us.
+-   \*The above timeline assumes you are putting in at least 8 hours a day, 5 days a week.
+-   \*\*Reminder: Please do not rush through or try to keep things to be done last minute or finish just for the sake of finishing. This is an opportunity for you to build YOUR skills. If you do not give 100%, we have seen over and over that such engineers do not end up performing well when they work on a real product with us.
 
 ## Logistics
 
