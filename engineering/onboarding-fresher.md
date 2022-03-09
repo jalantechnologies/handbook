@@ -26,14 +26,14 @@ Expected time to finish:
 
 NOTE:
 
+-   Reminder: Please do not rush through or keep things for last minute or finish just for the sake of finishing. This is an opportunity for you to build YOUR skills. If you do not give 100%, we have seen over and over that such engineers do not end up performing well when they work on a real product with us.
 -   \*The above timeline assumes you are putting in at least 8 hours a day, 5 days a week.
--   \*\*Reminder: Please do not rush through or try to keep things to be done last minute or finish just for the sake of finishing. This is an opportunity for you to build YOUR skills. If you do not give 100%, we have seen over and over that such engineers do not end up performing well when they work on a real product with us.
 
 ## Logistics
 
 ### Mentor
 
-At the time of joining, you will be assigned a mentor who will be your single point of contact on Engineering as you go through the onboarding. If not, please reach out to HR to ask for your mentor.
+At the time of joining, you will be assigned a mentor who will be your single point of contact on Engineering as you go through the onboarding. If you have not been assigned a mentor, please reach out to HR to ask for your mentor.
 
 ### Daily Standup:
 
