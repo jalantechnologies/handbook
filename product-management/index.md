@@ -58,4 +58,26 @@ At JTC, we recommend using following tools:
 
 ### Onboarding
 
-TBD
+#### Week 1: Understand the product and take charge of scrum
+
+##### Day 1:
+
+-   Setup 30 minute 1:1 with tech lead. Few things to talk about - (1) Get product overview and product access and relevant tools (2) Get invited to all sprint ceremonies and become owner of those meetings (3) What's working well and what's not working well
+
+-   Play with the product as user, ask question on channel and share your observations on the product channel (Do not worry if you do not understand everything on day)
+
+-   Review PRD documents around the features as you play with the product. If no PRD found, create one (do not worry about perfection, just document your observation using [PRD template](https://assets.plan.io/files/Planio-Product-Requirements-Document-Template.pdf))
+
+##### Day 2, 3, 4:
+
+-   Setup 30 minute 1:1 with rest of product team
+
+-   Attend scrum meeting applicable for the day
+
+-   Play with the product as user, ask question on channel and share your observations on the product channel (Do not worry if you do not understand everything on day)
+
+-   Review PRD documents around the features as you play with the product. If no PRD found, create one (do not worry about perfection, just document your observation using [PRD template](https://assets.plan.io/files/Planio-Product-Requirements-Document-Template.pdf))
+
+##### Day 5:
+
+-   Setup 1:1 with the customer. Few things to talk about - (1) Understand mission and vision (2) Understand what's working well and what they would like to see more from the product team (3) Find regular time to meet with customer for deciding problem discovery and planning the work for upcoming sprints
