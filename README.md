@@ -73,3 +73,7 @@ If you deserve a promotion, you will be promoted. To get a promotion, beyond del
 You will be given feedback during 1:1 with your manager. In case you are often missing on your commitments, you will be given a few chances to fix it. If not, we will ask you to find an opportunity outside the firm. We also ask you to leave the firm if we find that you lied to us or our clients.
 
 We do have 1 month notice period to help with the transition process as well as give you time to find another job.
+
+## Functional Onboarding
+
+-   Engineering: Start [here](https://github.com/jalantechnologies/handbook/blob/main/engineering/index.md)
