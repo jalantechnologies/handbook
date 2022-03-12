@@ -57,7 +57,7 @@ Problems:
 
 ### Demo Day:
 
-Every two weeks, there will be a demo day where you will be asked to present all the projects you completed as part of curriculum.
+Every two weeks, there will be a demo day where you will be asked to present all the projects you completed as part of curriculum. The objective of this demo day is for fresher to showcase their projects (max ~5 minutes each) and mentors to evaluate the progress.
 
 ### Github handle for work
 
