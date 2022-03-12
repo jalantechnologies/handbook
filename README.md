@@ -34,13 +34,13 @@ We often work on few products of our own as well (such as Omnimetic). If you are
 
 ### Daily Status Update
 
--   Before you start your day at work, please update appropriate channel with Progress (What you worked upon), Plan (What you plan to work on), Problems (Any blocking issues). This is very important in remote work setting to let your customer and team know what your progress.
+-   Before you start your day at work, please update appropriate channel with Progress (What you worked upon), Plan (What you plan to work on), Problems (Any blocking issues). This is very important in remote work setting to let your customer and team know about your progress.
 
 ### Benefits & Perks
 
--   **Remote Friendly**: You can work from place of your choice as long as there is a good overlap in effective working hours. We will also reimburse with one time work from home setup.
--   **Comprehensive Health Insurance**: INR 3L health insurance with a wide hospital coverage that covers your spouse, children and parents (with existing pre-conditions), including access to remote on call doctors.
--   **Workation**: Annual off-sites every year, fully paid, for the team to get together for a week to work and play.
+-   **Remote Friendly**: You can work from place of your choice as long as there is a good overlap in effective working hours. We will also reimburse one time work from home office setup.
+-   **Comprehensive Health Insurance**: INR 3L health insurance with a wide hospital coverage that covers your **spouse**, **children** and **parents (with existing pre-conditions)**, including access to remote on call doctors.
+-   **Workation**: Annual off-site(s) every year, fully paid, for the team to get together to work and play.
 -   **Learning Opportunities**: Access to best trainings for learning and skill advancements.
 -   **Time Offs**: 12 paid leaves, 6 leaves per year on top of national and regional holidays.
 -   **Paid Parental Leave**: - 6 months maternal and 1 month paternal
@@ -49,11 +49,9 @@ For more details, please checkout [FAQ's](https://github.com/jalantechnologies/h
 
 ### Time Off Policy
 
-Except emergencies, please plan and inform your time off a week before.
+Except emergencies, please plan and inform your time off a week before. To take time off,
 
-To take time off,
-
--   Let your team know on appropriate product channel
+-   Let your team and customer know on appropriate product channel
 -   Apply in HRMS system
 
 You do not need to seek approval from anyone. We trust that you will do the right thing keeping everyone's interest in mind.
