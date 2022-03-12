@@ -1,5 +1,7 @@
 ## Product Management:
 
+### Overview
+
 We think product manager role as that of a driver in a bus full of passenger. They have to take everyone with them and lead the bus to the right destination while creating a delightful experience throught the journey.
 
 AT JTC, a product manager:
@@ -11,13 +13,9 @@ AT JTC, a product manager:
 
 It is one of the **hardest jobs** because even though you don't have official authority on engineering, design or customer, you need to inspire them in such a way that they respect you and see you as a leader. This is a title not given, but earned.
 
-### Overview
-
-This section talks about each of the above steps in bit more details.
-
 #### 1. Understanding Problem
 
-**TLDR: Understand problem and start product requirement document (PRD) using this [template](https://assets.plan.io/files/Planio-Product-Requirements-Document-Template.pdf)**
+**Goal: Understand problem and start product requirement document (PRD) using this [template](https://assets.plan.io/files/Planio-Product-Requirements-Document-Template.pdf)**
 
 The first step is to figure out what problem to solve. This is the **hardest part**. If you get this wrong, everything else would result in waste. AT JTC, often your customer would tell you the problem statement(s). [5 Whys](https://en.wikipedia.org/wiki/Five_whys) is a good interrogative technique to use while doing the discovery and understanding the problem statement.
 
@@ -25,33 +23,33 @@ Once you understand the problem, create a product requirement document (PRD) usi
 
 #### 2. Evangelize Solution
 
-**TLDR: Work with product designer and customer to get a buy off on solution and update PRD.**
+**Goal: Work with product designer and customer to get a buy off on solution and update PRD.**
 
 Once the problem is understood, you should propose few solutions and build mock wireframes with product designer to help visualize the solution and discuss them with customer.
 
-You should also decide on KPI i.e. key performance indicators for the success of the feature. Ex: If you build a login feature that allows user to sign with using Google SSO, you may want to track the uptick in number of sign ups as a KPI.
+You should also decide on KPI i.e. key performance indicators for the success of the feature. Ex: If you build a login feature that allows user to sign up with using Google SSO, you may want to track the uptick in number of sign ups as a KPI.
 
-Once the solution and KPI's are agreed upon, update the PRD document with solution.
+Once the solution and KPI's are agreed upon, update the PRD document.
 
 #### 3. Product Development & Execution
 
-**TLDR: Work with engineering to plan and execute.**
+**Goal: Work with engineering to plan and execute.**
 
-Once the problem, solution and KPI's are documented, you should share the document with the tech lead and/or engineers and ask him/her to design the solution and help break down the work into small techncial tasks with rough estimates. You should create [JIRA](https://www.atlassian.com/software/jira) tickets based on those work items. For planning purpose, we use agile methodology. Our sprints are **2 weeks** long and we recommend to conduct following scrum ceremonies:
+Once the problem, solution and KPI's are documented, you should share the document with the tech lead and/or engineers and ask him/her to design the solution and help break down the work into small techncial tasks with rough estimates. You should create [JIRA](https://www.atlassian.com/software/jira) tickets based on those work items. For planning purpose, we use agile methodology. Our sprints are 2 weeks long and we recommend product manager to conduct following scrum ceremonies:
 
 -   **Sprint planning (Duration: 60 minutes, When: 2 days before sprint starts)**: In the sprint planning, you present the work items that you would like engineering team to achieve. This is an opportunity for engineering team to ask questions and for you to get their buyoff on the plan.
 
--   **Daily standups (Duration: 15 minutes, When: Daily)**: This is daily touch base call with the product team (engineering, design). During the meeting, go through the status update and ensure you understand the progress and ensure overall sprint remains on track.
+-   **Daily standups (Duration: 15 minutes, When: Daily)**: This is daily touch base call with the product team (engineering, design). During the meeting, go through the status update and ensure you understand the progress and mkae sure that the overall sprint remains on track.
 
--   **Sprint Exit (Duration: 60 minutes, When: Last day of sprint)**: In the morning of the last day of the sprint, send engineering team a reminder to ensure that they should focus on preparing for the demo. After the sprint exit demo, remind the engineering team to do the release and share the release notes on channel.
+-   **Sprint Exit (Duration: 60 minutes, When: Last day of sprint)**: In the morning of the last day of the sprint, send engineering team a reminder to ensure that they should focus on preparing for the demo.
 
 -   **Sprint Retro (Duration: 30 minutes, When: 2 days after sprint exit)**: The goal of this meeting is to reflect what went well and areas to improve for the sprint with clear action items.
 
 #### 4. Measure, Learn & Improve
 
-**TLDR: Observe feature usage, learn, and improve.**
+**Goal: Observe feature usage, learn, and improve.**
 
-Based on the KPI's decided during evangelizing the solution, you need to start monitoring the product usage once the feature is launched. Often, in early stages of the feature launch, you may not get sufficient data to make meaningful conclusion. This is where you need to mix data with your intuition. Based on data and your intuition, you should decide whether the feature launch was successful or not and propose solution to refine the solution.
+Based on the KPI's decided during evangelizing the solution, you need to start monitoring the product usage once the feature is launched. Often, in early stages of the feature launch, you may not get sufficient data to make meaningful conclusion. This is where you need to mix data with your intuition. Based on data and your intuition, you should decide whether the feature launch was successful or not and refine the solution accordingly.
 
 At JTC, we recommend using following tools:
 
