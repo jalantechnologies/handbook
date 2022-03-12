@@ -1,43 +1,43 @@
 # Onboarding Freshers
 
-At JTC, we build products that solve real life problems. For example: we are working with a solar company to build an application to help them analyse roof space to understand how much solar energy can be generated at the location.
+At JTC, we primarily work with enterprises to build solutions that help them to achieve business efficiencies and scale their business. For a large part, the solutions we deliver are based on web technologies. As of writing this document, our choice of stack is **Typescript, Node, React**.
 
-For a large part, the solutions we deliver are based on web technologies. As of writing this document, our choice of stack is Typescript, Node, React. The common language used for building the application is Javascript.
+This document assumes that you have no or minimal experience with this stack of professional software development in general. However, it assumes that you are proactive, independent and have strong problem solving skills to be able to figure out things on your own. If you do, we hope that you should be able to move through this quickly.
 
-This document assumes that you have no or minimal experience with this stack of professional software development in general. If you do, we hope that you should be able to move through this quickly.
+In order to help you learn MERN stack related technology, we rely on [Odin project](https://www.theodinproject.com/). We believe it's a curriculum well designed.
 
-### GOAL 1: Complete [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) Full Stack Developer (JS)
+## Learning Path
 
-**Mentor**: Will be assigned at time of joining. Please speak with your HR.
-**Expected time to finish**: ~2 months
+### 1. Fundamentals
 
-- Fundamentals: 1 week
-- Javascript: 1.5 weeks
-- React: 2.5 weeks
-- Node: 3.5 weeks
+Curriculum Link: [https://www.theodinproject.com/paths/foundations/courses/foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-The above timeline assumes you are putting in at least 8 hours a day, 5 days a week. Before you start working, please make sure you do following:
+Expected time to finish: ~2 weeks\*
 
-#### Step 1: Setup Github Handle for Work
+### 2. Full stack development using Javascript
 
-There are two options:
+Curriculum Link: [https://www.theodinproject.com/paths/full-stack-javascript](https://www.theodinproject.com/paths/full-stack-javascript)
 
-1. Use personal Github handle (**recommended**): Add your JTC work email as [secondary email to your Github](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/adding-an-email-address-to-your-github-account) handle. And on the repo locally do:
+Expected time to finish:
 
-   ```
-   $ git config user.name <YOUR NAME>
-   $ git config user.email <YOUR WORK EMAIL>
-   ```
+-   Javascript: 1.5 weeks\*
+-   React: 2.5 weeks\*
+-   Node: 3.5 weeks\*
 
-   This way, you build your personal Github profile while doing commit on behalf of the company.
+NOTE:
 
-2. Create a separate JTC specific Github handle.
+-   Reminder: Please do not rush through or keep things for last minute or finish just for the sake of finishing. This is an opportunity for you to build YOUR skills. If you do not give 100%, we have seen over and over that such engineers do not end up performing well when they work on a real product with us.
+-   \*The above timeline assumes you are putting in at least 8 hours a day, 5 days a week.
 
-#### Step 2: Setup IDE
+## Logistics
 
-Every team member has their preference but we generally use VSCode. Please also install a [prettier plugin](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) to make sure the code you write in any project is well formatted.
+### Mentor
 
-**Remember:** Every day, please send your daily status update to `eng-onboarding` in the Slack channel. Here is a sample format of daily status update:
+At the time of joining, you will be assigned a mentor who will be your single point of contact on Engineering as you go through the onboarding. If you have not been assigned a mentor, please reach out to HR to ask for your mentor.
+
+### Daily Standup:
+
+Every day, please send your daily status update to `Onboarding (Engineering)` channel. Here is a sample format of daily status update:
 
 ```
 Progress:
@@ -55,4 +55,21 @@ Problems:
 - None
 ```
 
-### GOAL 2: Complete [JTC Experienced Hire Onboarding](https://github.com/jalantechnologies/handbook/blob/main/engineering/onboarding-experienced-hire.md)
+### Demo Day:
+
+Every two weeks, there will be a demo day where you will be asked to present all the projects you completed as part of curriculum. The objective of this demo day is for fresher to showcase their projects (max ~5 minutes each) and mentors to evaluate the progress.
+
+### Github handle for work
+
+There are two options:
+
+1. Use personal Github handle (**recommended**): Add your JTC work email as [secondary email to your Github](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/adding-an-email-address-to-your-github-account) handle.
+
+    ```
+    $ git config --global user.name <YOUR NAME>
+    $ git config --global user.email <YOUR WORK EMAIL>
+    ```
+
+    This way, you build your personal Github profile while doing commit on behalf of the company.
+
+2. Create a separate JTC specific Github handle.
