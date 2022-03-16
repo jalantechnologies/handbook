@@ -77,3 +77,4 @@ We do have 1 month notice period to help with the transition process as well as 
 ## Functional Onboarding
 
 -   Engineering: Start [here](https://github.com/jalantechnologies/handbook/blob/main/engineering/index.md)
+-   Product Management: Start [here](https://github.com/jalantechnologies/handbook/blob/main/product-management/index.md)
