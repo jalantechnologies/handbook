@@ -58,11 +58,13 @@ At JTC, we recommend using following tools:
 
 ### Onboarding
 
-#### Week 1: Understand the product and take charge of scrum
+#### Week 1: Understand the product and processes to take charge of the scrum
 
 ##### Day 1:
 
--   Setup 30 minute 1:1 with tech lead. Few things to talk about - (1) Get product overview and product access and relevant tools (2) Get invited to all sprint ceremonies and become owner of those meetings (3) What's working well and what's not working well
+-   Setup a 30-minute onboarding call with PM lead to go through company processes and learn more about product you will be driving.
+
+-   Setup 30 minute 1:1 with tech lead associated with the product. Few things to talk about - (1) Get product overview and product access and relevant tools (2) Get invited to all sprint ceremonies and become owner of those meetings (3) What's working well and what's not working well
 
 -   Play with the product as user, ask question on channel and share your observations on the product channel (Do not worry if you do not understand everything on day)
 
