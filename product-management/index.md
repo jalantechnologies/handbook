@@ -68,7 +68,7 @@ At JTC, we recommend using following tools:
 
 -   Setup 30 minute 1:1 with tech lead associated with the product. Few things to talk about - (1) Get product overview and product access and relevant tools (2) Get invited to all sprint ceremonies and become owner of those meetings (3) What's working well and what's not working well
 
--   Play with the product as user, ask question on channel and share your observations on the product channel (Do not worry if you do not understand everything on day)
+-   Play with the product as user, ask question on channel and share your observations on the product channel (Do not worry if you do not understand everything on day 1)
 
 -   Review PRD documents around the features as you play with the product. If no PRD found, create one (do not worry about perfection, just document your observation using [PRD template](https://assets.plan.io/files/Planio-Product-Requirements-Document-Template.pdf))
 
