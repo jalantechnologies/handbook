@@ -30,7 +30,7 @@ We often work on few products of our own as well (such as Omnimetic). If you are
 -   Be patient. Listen first. Understand other's perspective first. Speak after.
 -   Always be professional in both verbal and written communication, both internally and externally. Use Grammarly if you need help with your written communication.
 -   If you are on a call, please turn on video in both internal and external communication. It feels pretty weird talking to a computer. Seeing creates a human connection.
--   Make sure your profile accurately describes what you do on Slack, Github, LinkedIn, Angel.co including a profile picture. Prospective clients and team members often research about us on the internet.
+-   Make sure your profile accurately describes what you do on Github, LinkedIn, Angel.co including a profile picture. Prospective clients and team members often research about us on the internet.
 
 ### Daily Status Update
 
