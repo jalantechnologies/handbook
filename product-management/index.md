@@ -45,7 +45,7 @@ Once the problem, solution and KPI's are documented, you should share the docume
 
 -   **Sprint Exit (Duration: 60 minutes, When: Last day of sprint)**: In the morning of the last day of the sprint, send engineering team a reminder to ensure that they should focus on internal feedback and preparing for the demo on the staging environment.
 
--   **Sprint Retro (Duration: 30 minutes, When: 2 days after sprint exit)**: The goal of this meeting (should happen within 2-3 days of sprint exit) is to reflect what went well and areas to improve for the sprint with clear action items.
+-   **Sprint Retro (Duration: 30 minutes, When: 2 days after sprint exit)**: The goal of this meeting (should plan within 2-3 days of sprint exit) is to reflect what went well and areas to improve for the sprint with clear action items.
 
 #### 4. Measure, Learn & Improve
 
