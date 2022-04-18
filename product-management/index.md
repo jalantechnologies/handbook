@@ -43,9 +43,9 @@ Once the problem, solution and KPI's are documented, you should share the docume
 
 -   **Daily standups (Duration: 15 minutes, When: Daily)**: This is daily touch base call with the product team (engineering, design). During the meeting, go through the status update and ensure you understand the progress and mkae sure that the overall sprint remains on track.
 
--   **Sprint Exit (Duration: 60 minutes, When: Last day of sprint)**: In the morning of the last day of the sprint, send engineering team a reminder to ensure that they should focus on preparing for the demo.
+-   **Sprint Exit (Duration: 60 minutes, When: Last day of sprint)**: In the morning of the last day of the sprint, send engineering team a reminder to ensure that they should focus on internal feedback and preparing for the demo on the staging environment.
 
--   **Sprint Retro (Duration: 30 minutes, When: 2 days after sprint exit)**: The goal of this meeting is to reflect what went well and areas to improve for the sprint with clear action items.
+-   **Sprint Retro (Duration: 30 minutes, When: 2 days after sprint exit)**: The goal of this meeting (should happen within 2-3 days of sprint exit) is to reflect what went well and areas to improve for the sprint with clear action items.
 
 #### 4. Measure, Learn & Improve
 
