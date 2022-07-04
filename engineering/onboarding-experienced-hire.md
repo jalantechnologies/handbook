@@ -48,7 +48,7 @@ Every team member has their preference but we generally use VSCode. Please also 
 
 3. Raise a PR on Github to merge these changes against the develop branch. Please see raising [pull request etiquette](https://github.com/jalantechnologies/handbook/blob/main/engineering/pr-etiquette.md).
 
-4. Ping the link of PR on the `eng-onboarding` Slack channel for review.
+4. Ping the link of PR on the `Onboarding (Engineering)` channel for review.
 
 5. Once all comments in PR has been addressed and PR has been approved, please `Squash and Merge` the PR to develop branch (read [why](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0))
 
@@ -70,7 +70,7 @@ Every team member has their preference but we generally use VSCode. Please also 
 
 The goal of this exercise is to ensure that you are familiar with the general architecture that we use to build backend applications and create a simple TODO application using that architecture.
 
-Please start your work day by sending a daily status update to the `Onboarding (Engineering)` channel in MS Team. Here is a sample. Please continue to send daily status updates beginning every day to `Onboarding (Engineering)` MS Team channel.
+Please start your work day by sending a daily status update to the `Onboarding (Engineering)` channel. Here is a sample. Please continue to send daily status updates beginning every day to `Onboarding (Engineering)` channel.
 
 ```
 Progress:
@@ -187,20 +187,20 @@ Response body:
 
 #### Step 2: Raise a PR containing changes to create a TODO item.
 
-Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` MS Team channel with PR link for review.
+Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` channel with PR link for review.
 
 #### Step 3: Raise a PR containing changes to delete a TODO item.
 
-Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` MS Team channel with PR link for review.
+Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` channel with PR link for review.
 
 #### Step 4: Raise a PR containing changes to update a TODO item.
 
-Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` MS Team channel with PR link for review.
+Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` channel with PR link for review.
 
 #### Step 5: Raise a PR containing changes to fetch a TODO item.
 
-Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` MS Team channel with PR link for review.
+Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` channel with PR link for review.
 
 #### Step 6: Raise a PR containing changes to list all TODO items.
 
-Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` MS Team channel with PR link for review.
+Please make sure all PR’s have appropriate automated tests associated with the changes. Please ping `Onboarding (Engineering)` channel with PR link for review.
