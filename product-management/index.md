@@ -59,3 +59,7 @@ At JTC, we recommend using following tools:
 
 -   [MixPanel](https://mixpanel.com/) to capture usage data and building KPI reports.
 -   [Inspectlet](https://www.inspectlet.com/) to capture user sessions as video to review them. We expect you to review the few sessions manually every day to see how the feature is being used or where users are often stuck.
+
+## How to:
+
+#### 1. [How to setup Jira](https://jalantechnology-my.sharepoint.com/:w:/g/personal/mohit_jalantechnologies_com/EQzTc5JKxuxPjFvgo8nz_skByByJoRKT_qHZwHuYgHcWrA)
