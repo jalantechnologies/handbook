@@ -1,4 +1,4 @@
-**Jalan Technology Consulting** works with enterprises across the globe to provide great technology solutions. We are an output driven organization i.e. we focus on results rather than effort and do whatever it takes to honor our commitments. The rest of the document talks about our values and how we function. If you have any feedback on how we can improve, please write to Jai at jjalan@jalantechnologies.com
+**Jalan Technologies** works with enterprises across the globe to provide great technology solutions. We are an output driven organization i.e. we focus on results rather than effort and do whatever it takes to honor our commitments. The rest of the document talks about our values and how we function. If you have any feedback on how we can improve, please write to Jai at jjalan@jalantechnologies.com
 
 ## Mission
 
@@ -8,7 +8,7 @@ Help businesses win by providing best engineering talent and technology solution
 
 -   **Honesty**: Being honest is the only way to become trustworthy and be reliable to your team and your clients. If you are stuck, going through rough time or made a mistake, speak up. It's always the right thing to do.
 -   **Independent**: We look for people, who can solve problems and work independently. We are not good at handholding.
--   **Passionate**: Be passionate about what you do. If you are not, you will not succeed. We enjoy working with passionate people. If you stopped enjoying what you do at JTC, talk to your manager.
+-   **Passionate**: Be passionate about what you do. If you are not, you will not succeed. We enjoy working with passionate people. If you stopped enjoying what you do at JT, talk to your manager.
 -   **Delivering commitments on time**: Commit. Deliver. It is almost impossible to run a company if your team members and your clients cannot rely on you.
 -   **Strong work ethics**: Work matters. It puts food on the table as well as bring meaning to our life. If you are working with us, bring your A game. If you are considering freelance or work part-time with other firms along with a full-time job with us, please talk to your manager beforehand. In our experience, this almost never works. If you want to broaden your horizon, talk to your manager. We often encourage giving back to the community and can help you identify right open source projects to contribute.
 -   **Do not give up**: From time to time, you will find yourself in a situation that may be out of your comfort zone. Do not give up. Ever. Push yourself and you will win.
@@ -16,13 +16,13 @@ Help businesses win by providing best engineering talent and technology solution
 
 ## About us
 
-Jai started JTC in 2016 after realizing that there are a lot of businesses who are always looking for reliable technology partners to help them deliver solutions. Before JTC, he spent a decade working with Microsoft, Google, Startups where he leads engineering teams.
+Jai started Jalan Technologies in 2016 after realizing that there are a lot of businesses who are always looking for reliable technology partners to help them deliver solutions. Before JT, he spent a decade working with Microsoft, Google, Startups where he leads engineering teams.
 
 Our primary nature of the business is technology consulting and implementation of software systems. Our technology consultants bring clients on board by pitching software solutions and our software engineers work with clients to deliver them. Our engineers take full ownership of features and work alongside with customers to deliver them.
 
-We often work on few products of our own as well (such as Omnimetic). If you are looking to work with us, talk to your hiring manager to learn more about our works.
+We often work on few products of our own as well (such as Omnimetic) under Jalan Technologies Labs. If you are looking to work with us, talk to your hiring manager to learn more about our works.
 
-## Working at JTC
+## Working at Jalan Technologies
 
 ### Best Practices
 
