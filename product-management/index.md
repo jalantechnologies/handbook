@@ -49,7 +49,13 @@ Once the problem, solution and KPI's are documented, you should share the docume
 
 -   **Sprint Retro (Duration: 30 minutes, When: 2 days after sprint exit)**: The goal of this meeting (should plan within 2-3 days of sprint exit) is to reflect what went well and areas to improve for the sprint with clear action items.
 
-#### 4. Measure, Learn & Improve
+#### 4. Handling Product Defects
+
+**Goal: Analyse and dealing with product defects**
+
+PM and QA should work together to handle any reported product defects. It should be validated against the PRD and see where we are deviating from the agreed behaviour. On successful validation PM should update the PRD (if needed) and file the bug in Jira with a clear description and priority based on the impact. 
+
+#### 5. Measure, Learn & Improve
 
 **Goal: Observe feature usage, learn, and improve.**
 
