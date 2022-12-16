@@ -49,13 +49,7 @@ Once the problem, solution and KPI's are documented, you should share the docume
 
 -   **Sprint Retro (Duration: 30 minutes, When: 2 days after sprint exit)**: The goal of this meeting (should plan within 2-3 days of sprint exit) is to reflect what went well and areas to improve for the sprint with clear action items.
 
-#### 4. Handling Product Defects
-
-**Goal: Analyse and dealing with product defects**
-
-PM and QA should work together to handle any reported product defects. It should be validated against the PRD and see where we are deviating from the agreed behaviour. On successful validation PM should update the PRD (if needed) and file the bug in Jira with a clear description and priority based on the impact. 
-
-#### 5. Measure, Learn & Improve
+#### 4. Measure, Learn & Improve
 
 **Goal: Observe feature usage, learn, and improve.**
 
@@ -65,6 +59,18 @@ At JTC, we recommend using following tools:
 
 -   [MixPanel](https://mixpanel.com/) to capture usage data and building KPI reports.
 -   [Inspectlet](https://www.inspectlet.com/) to capture user sessions as video to review them. We expect you to review the few sessions manually every day to see how the feature is being used or where users are often stuck.
+
+### Handling Product Defects
+
+Whenever client or any product stakeholder reports a software defect, PM should be first to evalute it (as it may also be a desired behaviour).
+
+PM should validate the behaviour against PRD and if its indeed a bug, s/he should:
+
+-   File a JIRA ticket and assign priority (P0 - stop everything and fix this first, P1 - Need to fix this soon and ok if it happens sometime in current sprint, P2 - Backlog). Update PRD if needed.
+
+-   Work with lead to get the product fixed
+
+-   Once the changes are deployed to production, verify it once and notify the person who reported the bug.
 
 ## How to:
 
