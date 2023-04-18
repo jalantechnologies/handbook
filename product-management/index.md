@@ -60,6 +60,18 @@ At JTC, we recommend using following tools:
 -   [MixPanel](https://mixpanel.com/) to capture usage data and building KPI reports.
 -   [Inspectlet](https://www.inspectlet.com/) to capture user sessions as video to review them. We expect you to review the few sessions manually every day to see how the feature is being used or where users are often stuck.
 
+### Handling Product Defects
+
+Whenever client or any product stakeholder reports a software defect, PM should be first to evalute it (as it may also be a desired behaviour).
+
+PM should validate the behaviour against PRD and if its indeed a bug, s/he should:
+
+-   File a JIRA ticket and assign priority (P0 - stop everything and fix this first, P1 - Need to fix this soon and ok if it happens sometime in current sprint, P2 - Backlog). Update PRD if needed.
+
+-   Work with lead to get the product fixed
+
+-   Once the changes are deployed to production, verify it once and notify the person who reported the bug.
+
 ## How to:
 
 #### 1. [How to setup Jira](https://jalantechnology-my.sharepoint.com/:w:/g/personal/mohit_jalantechnologies_com/EQzTc5JKxuxPjFvgo8nz_skByByJoRKT_qHZwHuYgHcWrA)
