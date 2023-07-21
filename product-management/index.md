@@ -45,7 +45,7 @@ Once the problem, solution and KPI's are documented, you should share the docume
 
 - **Feature acceptance (Duration: Ongoing, When: During the sprint)**: During the sprint, you should verify all the PRs and provide "PM Acceptance" for engineering team to merge and deploy feature on production. All the review and feedback should be submitted within PR on Github. 
 
--   **Sprint Exit (Duration: 60 minutes, When: Last day of sprint)**: In the morning of the last day of the sprint, send engineering team a reminder to ensure that they should focus on internal feedback and preparing for the demo on the staging environment. You should also prepare the ["Sprint Review"](https://jalantechnology-my.sharepoint.com/:p:/g/personal/mohit_jalantechnologies_com/EbV4otRcDihHjThY_FIOFEQB73crpneZKOc7joPsRrO4dg?e=Yp5K2C) slides summarizing the sprint output.
+-   **Sprint Exit (Duration: 60 minutes, When: Last day of sprint)**: In the morning of the last day of the sprint, send engineering team a reminder to ensure that they should focus on internal feedback and preparing for the demo on the staging environment. You should also prepare the ["Sprint Review"](https://jalantechnology.sharepoint.com/:p:/s/JTC/Ea0gpWXBwy1LixBUfPo2qNYBrAaK3Ju07bgEkjCbQhZVag?e=1R2YK8) slides summarizing the sprint output.
 
 -   **Sprint Retro (Duration: 30 minutes, When: 2 days after sprint exit)**: The goal of this meeting (should plan within 2-3 days of sprint exit) is to reflect what went well and areas to improve for the sprint with clear action items.
 
