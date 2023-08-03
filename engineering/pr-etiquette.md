@@ -4,8 +4,9 @@ TLDR: Don't be lazy.
 
 - **Small**: Ensure that your PR does not have lot of changes. Do you think a reviewer can do a good job reviewing if they have to review - say 50 files at a time?
 - **One Logical Unit**: Ensure that your PR has changes related to one task or bug. One PR should not have multiple fixes in it. Also make sure that by merging that PR, a value can be delivered end to end to related use case.
-- **Good title**: Please use a title that explains what the change is about in few words. If you are working on a feature to allow user to login by email, a good title would be `allow user to login by email`
-- **Good description**: Each PR is like adding a new page to a constitution. Please add description in PR template to describe what and why behind the change. You should be very liberal and document things such as following. This is a good PR template for [frontend](https://github.com/jalantechnologies/boilerplate-next-typescript/blob/develop/.github/pull_request_template.md) and [backend related changes](https://github.com/jalantechnologies/boilerplate-node-ts/blob/develop/.github/pull_request_template.md).
+- **Branch**: Your branch name should be small, concise. A good branch name consists author of the change (so team members know who is working on it), the type of change that is being proposed (feature, bug, etc) and small description for the change (usually the shortest description of the ticket you working on or the ticket number itself). Examples - `ankit/fix/username-label-issue`, `ankit/feat/platform-3244-fix-test`.
+- **Good title**: Please use a title that explains what the change is about in few words. If you are working on a feature to allow user to login by email, a good title would be `Allow user to login by email`
+- **Good description**: Each PR is like adding a new page to a constitution. Please add description in PR template to describe what and why behind the change. You should be very liberal and document things such as following. [This](https://github.com/jalantechnologies/boilerplate-mern/blob/main/.github/pull_request_template.md) is a good PR template that we generally use which breaks down your description into:
   - Why is this change needed? If this is fixing a bug, what's the root cause of this bug
   - API changes
   - Database changes
