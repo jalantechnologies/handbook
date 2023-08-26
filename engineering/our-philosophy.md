@@ -22,10 +22,7 @@ It's easy for developers to get lost in details and forget the bigger picture. P
 
 Software engineers should also regularly review user analytics to understand the audience and their behaviors. Tools like Google Analytics and error reporting help with this.
 
-<aside>
-💡 *Imagine a situation where 60% of users are on small laptops, but the development team uses 4K retina screens. And they discovered that the content they had developed was too big for the average user’s smaller screens and was forcing them to scroll.*
-
-</aside>
+_Imagine a situation where 60% of users are on small laptops, but the development team uses 4K retina screens. And they discovered that the content they had developed was too big for the average user’s smaller screens and was forcing them to scroll._
 
 Understanding the user base in this scenario can lead to better product development. Knowing how users interact with a product can help developers push back on client requests or suggest better resource usage.
 
@@ -43,10 +40,7 @@ Instead of just focusing on technical skills, developers should show broader ski
 
 Knowing how to code is good, but being able to give detailed feedback is even better.
 
-<aside>
-💡 Imagine two friends, A and B, in a job interview. A talks about technical skills, while B explains how they improved the company's product and increased user satisfaction by x%. Who do you think would likely get the job? Probably B, because businesses want to make money and keep customers happy.
-
-</aside>
+_Imagine two friends, A and B, in a job interview. A talks about technical skills, while B explains how they improved the company's product and increased user satisfaction by x%. Who do you think would likely get the job? Probably B, because businesses want to make money and keep customers happy._
 
 > We don't need engineers who create cool but unhelpful features. What's crucial is engineers who create features that are useful and effective.
 
