@@ -1,38 +1,72 @@
 # Onboarding Freshers
 
-At Jalan Technologies, we primarily work with enterprises to build solutions that help them to achieve business efficiencies and scale their business. For a large part, the solutions we deliver are based on web technologies. As of writing this document, our choice of stack is **Typescript, Node, React**.
+At Jalan Technologies, we primarily work with enterprises to build solutions that help them to achieve business efficiencies and scale their business. For a large part, the solutions we deliver are based on web technologies. As of writing this document, our choice of stack is **Typescript, Node, React and React-Native (for mobile apps)**.
 
 This document assumes that you have no or minimal experience with this stack of professional software development in general. However, it assumes that you are proactive, independent and have strong problem solving skills to be able to figure out things on your own. If you do, we hope that you should be able to move through this quickly.
 
-In order to help you learn MERN stack related technology, we rely on [Odin project](https://www.theodinproject.com/). We believe it's a curriculum well designed.
+# Learning Path
+    
+## 1. Fundamental Full stack development using Javascript
 
-## Learning Path
+    
 
-### 1. Fundamentals
+In order to start learning fundamentals of React, Node and MongoDB, we suggest you build a TODO app project using MERN stack.
+    
 
-Curriculum Link: [https://www.theodinproject.com/paths/foundations/courses/foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+> Requirements
+    
+Create a TODO app using MERN stack. As a user I should be able to -
+  - signup, login and logout from the application. 
+  - create TODO item with following details - Title, description, Type (Official, Personal, Hobby etc.), and Due date.
+  - edit TODO item and update any details.
+  - mark the status of TODO item to DONE. 
+  - mark the status of TODO item from DONE to back to original status (To Do).
+  - delete a TODO item.
+  - see the list of TODO items with following filters - Overdue (due date < Today's date), Status (To Do and Done)
+    
+> Expected time to finish  
 
-Expected time to finish: ~1 week\*
+Two weeks
 
-### 2. Full stack development using Javascript
+## 2. Getting along with JTC standards
 
-Curriculum Link: [https://www.theodinproject.com/paths/full-stack-javascript](https://www.theodinproject.com/paths/full-stack-javascript)
+> Requirements
 
-Expected time to finish:
+- Create a new repo using this template - https://github.com/jalantechnologies/boilerplate-mern
+- Create TODO app again, using the code structure and standards followed in above Repo
+- Write proper automation tests
 
-- Javascript: 1.5 weeks\*
+> Expected time to finish  
 
-- React: 2.5 weeks\*
+Two weeks
 
-- Node: 2.5 weeks\*
+
+
+# General Expectations 
+    
+- Daily PPP updates on the Onboarding channel
+- Make sure to do good research before writing/copying any line of code.
+- Daily or frequent code push on the GitHub repo
+- Neat and clean professional looking UI
+- All functionalities of the app are working smoothly with no bugs
+- Basic coding standards are followed -
+  - Proper variable, function, class names
+  - Follow RESTful API principles
+  - Create classes & objects and define DB schema in a structured format
+  - Components are used in React
+  - Tailwind CSS, not to be used
+  - Well formatted code
+  - No console.log / console.error / console.warn in code
+  - No very long comments inside the code. Maximum 2-3 lines of comments are sufficient most of the time
+  - No commented-out code or unused code
 
 NOTE:
 
-- Reminder: Please do not rush through or keep things for last minute or finish just for the sake of finishing. This is an opportunity for you to build YOUR skills. If you do not give 100%, we have seen over and over that such engineers do not end up performing well when they work on a real product with us.
+- Reminder: Please do not rush through or keep things for last minute or finish just for the sake of finishing. This is an opportunity for you to build YOUR skills. If you do not give 100%, we have seen over and over that such engineers do not end up performing well when they work on a client/internal product with us.
 
 - \*The above timeline assumes you are putting in at least 8 hours a day, 5 days a week.
 
-## Logistics
+# Logistics
 
 ### Mentor
 
@@ -58,6 +92,8 @@ At Jalan Technologies, our mentorship program includes regular check-ins between
     
 
 6.  Commitment: We look for individuals who can be relied upon to deliver on their commitments and support the team and customers alike.
+
+---
 
 ### Daily Standup:
 
