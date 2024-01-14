@@ -22,19 +22,19 @@ Over time, we have realized that we cannot serve our customers if we are not ope
 We are 100% remote company. The goal behind this decision is to empower team members to do what they do their best, from wherever they do. Following policies are designed so that flexibility is met with accountability to ensure we continue to serve our customers to the best of our abilities.
 
 ### Delivering on Commitments
-We expect you to achieve atleast *80%* (ideally 100%) of your commitments to perfection. We believe that going below 80% of our commitments is often perceived as poor quality of service.
+We expect you to achieve atleast **80%** (ideally 100%) of your commitments to perfection. We believe that going below 80% of our commitments is often perceived as poor quality of service.
 
-- If you are an engineer, you are expected to release 80% of sprint tasks to production
+- If you are an engineer, you are expected to release sprint tasks to production
 - If you are into marketing, you are expected to release your weekly tasks
 - If you are into recruitment, you are expected to acheive mutually agreed recruitment goals
 
-If you are not clear on your tasks or how to quantify *80%*, be proactive and talk to your manager.
+If you are not clear on your tasks or how to quantify **80%**, be proactive and talk to your manager.
 
 ### Collaboration & Working Hours
 While it is important that each team member has flexibility to work at times that work best for them, it is also important that they have effective collaboration hours with their immediate team members.
 
-- *Working Hours*: Set your working hours (and keep it up to date) in your status message on MS teams, ensure a minimum of *4 overlapping hours* with team's collaboration hours. Please be *online* and *available* during work hours. It is generally considered not professional, if for any reason you're not available, without prior update on MS team's channel.
-- *Daily Status Update*: Before you start your day at work, please update your team channel with following. This is very important in remote work setting to let your customer and team know about your progress.:
+- **Working Hours**: Set your working hours (and keep it up to date) in your status message on MS teams, ensure a minimum of **4 overlapping hours** with team's collaboration hours. Please be **online** and **available** during work hours. It is generally considered not professional, if for any reason you're not available, without prior update on MS team's channel.
+- **Daily Status Update**: Before you start your day at work, please update your team channel with following. This is very important in remote work setting to let your customer and team know about your progress.:
 
     - Progress (What you worked upon)
     - Plan (What you plan to work on)
