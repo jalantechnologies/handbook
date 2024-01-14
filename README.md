@@ -48,7 +48,7 @@ It is expected for you to attend key team meetings. It helps everyone to be on t
 - Engineering: Standup, exit, retro, company all hands
 - Recruitment, marketing: Weekly Sync Up or as directed by lead, company all hands
 
-Please:
+During meeting, please:
 
 - Turn on video in both internal and external communication. It is generally considered not professional not to do so
 - Be on time. Respect other people time.
