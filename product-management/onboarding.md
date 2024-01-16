@@ -1,27 +1,36 @@
 ### Onboarding
 
-#### Week 1: Understand the product and [product management processes](https://github.com/jalantechnologies/handbook/blob/main/product-management/index.md) to take charge of the scrum
+#### Understand the product and [product management processes](https://github.com/jalantechnologies/handbook/blob/main/product-management/index.md) to take charge of the scrum
 
-##### Day 1:
+##### Day 1: Introduction and Orientation
 
--   Setup a 30-minute onboarding call with PM lead to go through company processes and learn more about product you will be driving
+- Welcome session with HR, introduction to workplace culture, policies, and facilities.
+- Introduction meeting with the hiring manager (JT) to discuss expectations, responsibilities, and overview of the product management process.
+- Initial overview of product management tools and software used in the company.
+- Introduction meeting with the Product team, including product managers, designers, and engineers.
 
--   Setup 30 minute 1:1 with tech lead associated with the product. Few things to talk about - (1) Get product overview and product access and relevant tools (2) Get invited to all sprint ceremonies and become owner of those meetings (3) What's working well and what's not working well
+#### Day 2: Product Team Integration
 
--   Play with the product as user, ask question on channel and share your observations on the product channel (Do not worry if you do not understand everything on day 1)
+- Get a product overview from the existing Lead or PM. 
+- Overview of the product roadmap and key features. Begin exploring the product to gain a hands-on understanding.
+- Initial discussion with team members about their roles and how they collaborate within the product development process.
 
--   Review PRD documents around the features as you play with the product. If no PRD found, create one (do not worry about perfection, just document your observation using [PRD template](https://assets.plan.io/files/Planio-Product-Requirements-Document-Template.pdf))
+#### Day 3: Sprint Meetings Initiation
 
-##### Day 2, 3, 4:
+- Attend the daily stand-up meeting to observe and understand the dynamics of the team.
+- Introduction to sprint planning meetings and an overview of the agile development process.
+- Participate in a retrospective meeting to understand how the team reflects on the past sprint and improvement plans.
 
--   Over next 3 days, setup 30 minute 1:1 with rest of product team (engineers, test and design). You will be working with them on daily basis so ensure you build a rapport with them
+#### Day 4: PRD Review and Hands-On Product Exploration 
 
--   Attend scrum meeting applicable for the day
+- Review written Product Requirements Documents (PRDs) for current and upcoming sprints.
+- Prepare a list of questions regarding PRDs and schedule meetings with relevant team members to seek clarification.
+- Continue exploring the product independently, trying out different features, and identifying areas for improvement.
+- Attend a sprint review meeting to witness how the team showcases completed work to stakeholders.
 
--   Play with the product as user, ask questions and share your observations on the product channel (Do not worry if you do not understand everything at first go)
+#### Day 5: Sprint Ownership Preparation
 
--   Review PRD documents around the features as you play with the product. If no PRD found, create one (do not worry about perfection, just document your observation using [PRD template](https://assets.plan.io/files/Planio-Product-Requirements-Document-Template.pdf))
+- Attend sprint planning meetings to understand the upcoming tasks and priorities.
+- Work closely with the Product team to refine user stories, clarify requirements, and align on sprint goals.
 
-##### Day 5:
-
--   Setup 1:1 with the customer. Few things to talk about - (1) Understand mission and vision (2) Understand what's working well and what they would like to see more from the product team (3) Find regular time to meet with customer for deciding problem discovery and planning the work for upcoming sprints
+At the end of the first week of onboarding, you should be ready to lead the sprint meetings, outlining goals, priorities, and expectations for the upcoming sprint.
