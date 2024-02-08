@@ -61,7 +61,7 @@ Please plan and inform your time off a week before. To take time off,
 
 - Let your team and customer know on appropriate team channel
 - Update in company HRMS system
-- Update your status on MS teams to communicate your are OOO, ex: 'OOO 1/10 - 1/15'.
+- Update your status on MS teams. For ex, if you are on leave from 1/10-1/15, set something as 'OOO: 1/10-1/15'
 
 You do not need to seek approval from anyone. We trust that you will do the right thing keeping everyone's interest in mind. Last minute time off, except medical emergencies, are discouraged as it disrupts work flow.
 
