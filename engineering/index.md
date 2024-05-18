@@ -17,6 +17,7 @@ Understanding the user base in this scenario can lead to better product developm
 
 ## Engineering How To:
 - [How to build maintainable frontends that future dev's would thank you for](https://www.loom.com/share/c4352f7c0be949e8bc0377dbcba15daa)
+- [How we think about building backend - Part 1] (https://www.loom.com/share/e10b30d5d53c43b5bceea52177737bb0?sid=e42a852a-40fe-4007-964f-facd2a7b61a6)
 - [How to raise a Perfect PR](https://github.com/jalantechnologies/handbook/blob/main/engineering/pr-etiquette.md)
 - [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
 - [How to write better code comments](https://dev.to/adammc331/todo-write-a-better-comment-4c8c)
