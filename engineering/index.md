@@ -16,6 +16,7 @@ _Imagine a situation where 60% of users are on small laptops, but the developmen
 Understanding the user base in this scenario can lead to better product development. Knowing how users interact with a product can help developers push back on client requests or suggest better resource usage. Software engineers should also regularly review user analytics to understand the audience and their behaviors. Tools like Google Analytics and error reporting help with this.
 
 ## Engineering How To:
+- [How to build maintainable frontends that future dev's would thank you for](https://www.loom.com/share/c4352f7c0be949e8bc0377dbcba15daa)
 - [How to raise a Perfect PR](https://github.com/jalantechnologies/handbook/blob/main/engineering/pr-etiquette.md)
 - [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
 - [How to write better code comments](https://dev.to/adammc331/todo-write-a-better-comment-4c8c)
