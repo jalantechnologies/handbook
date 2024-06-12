@@ -74,6 +74,7 @@ Note: We expect you to finish this in 2 weeks, assuming you are putting in at le
   - No console.log / console.error / console.warn in code
   - No very long comments inside the code. Maximum 2-3 lines of comments are sufficient most of the time
   - No commented-out code or unused code
+  - File names should always be in lowercase. Use hyphens (-) to separate words. For example: `todo-controller.ts`
 
 ###  Raise a PR
 We encourage you to raise your PR daily, push your changes, once you are done for the day, a PR on Github to merge these changes against the develop branch. Please see raising [pull request etiquette](https://github.com/jalantechnologies/handbook/blob/main/engineering/pr-etiquette.md).
