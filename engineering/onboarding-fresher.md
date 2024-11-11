@@ -1,6 +1,6 @@
 # Onboarding Associates
 
-At Jalan Technologies, we primarily work with enterprises to build solutions that help them to achieve business efficiencies and scale their business. For a large part, the solutions we deliver are based on web technologies. As of writing this document, our choice of stack is **Python, React (with Typescript) and React-Native (for mobile apps)**. 
+At Better, we primarily work with enterprises to build solutions that help them to achieve business efficiencies and scale their business. For a large part, the solutions we deliver are based on web technologies. As of writing this document, our choice of stack is **Python, React (with Typescript) and React-Native (for mobile apps)**. 
 
 This document assumes that you have no or minimal experience with this stack of professional software development in general. However, it assumes that you are proactive, independent and have strong problem solving skills to be able to figure out things on your own. If you do, we hope that you should be able to move through this quickly.
 
@@ -18,7 +18,7 @@ At the time of joining, you will be assigned a mentor who will be your single po
 ### Create Github handle for work
 Since our source code is stored on Github, you need a Github handle to contribute. There are two options:
 
-1. Use personal Github handle (**recommended**): Add your Jalan Technologies work email as [secondary email to your Github](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/adding-an-email-address-to-your-github-account) handle.
+1. Use personal Github handle (**recommended**): Add your Better work email as [secondary email to your Github](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/adding-an-email-address-to-your-github-account) handle.
 
 ```
 $ git config --global user.name <YOUR NAME>
@@ -27,7 +27,7 @@ $ git config --global user.email <YOUR WORK EMAIL>
 
 This way, you build your personal Github profile while doing commit on behalf of the company.
 
-2. Create a separate Jalan Technologies specific Github handle.
+2. Create a separate Better specific Github handle.
 
 ###  IDE
 Every team member has their preference but we generally use VSCode. Please also install a [prettier plugin](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) to make sure the code you write in any project is well formatted.

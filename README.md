@@ -1,7 +1,11 @@
 ## Overview
-**Jalan Technologies** works with enterprises across the globe to provide great technology solutions. Jai started Jalan Technologies in 2017 after realizing that there are a lot of businesses who are always looking for reliable technology partners to help them deliver solutions. Our primary nature of the business is technology consulting and implementation of software systems. Our engineers take full ownership of features and work alongside with customers to deliver them.
+**Better** (Prev: Jalan Technologies) is an AI powered software development agency and build web, mobile and custom applications with solid engineering foundations. We are preferred agency by top notch entrepreneurs, enterprises and ventured backed startups. 
+ 
+Unlike 99% of agency-built software that struggles with poor foundations, leading to costly rebuilds and bug-ridden iterations, we prioritise creating a rock-solid technical base from the start. This ensures smoother scaling and easier future development. Over the last 7 years, we’ve had the privilege of working with bootstrapped companies that have gone on to generate over $100M in revenue, as well as unicorns and startups backed by Techstars, top VCs like Andreessen Horowitz, and executives from industry giants like Apple and Google. 
+ 
+If you're tired of software that can’t keep up with your growth, we are here to deliver a product with a foundation you can trust.
 
-The rest of the document talks about our values and how we operate. If you have any feedback on how we can improve, please write to Jai at jjalan@jalantechnologies.com
+The rest of the document talks about our values and how we operate. If you have any feedback on how we can improve, please write to Jai at jjalan@bettrsw.com
 
 ## Mission
 
@@ -18,7 +22,7 @@ Over time, we have realized that we cannot serve our customers if we are not ope
 - **Do not give up**: From time to time, you will find yourself in a situation that may be out of your comfort zone. Do not give up. Ever. Push yourself and you will win.
 - **Team player**: Appreciate if someone did well. Help them improve by giving them constructive feedback when you see an opportunity for your team members to grow.
 
-## Working at Jalan Technologies
+## Working at Better
 We are 100% remote company. The goal behind this decision is to empower team members to do what they do their best, from wherever they do. Following policies are designed so that flexibility is met with accountability to ensure we continue to serve our customers to the best of our abilities.
 
 ### Delivering on Commitments

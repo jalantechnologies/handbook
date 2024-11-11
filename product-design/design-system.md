@@ -1,6 +1,6 @@
 # Creating and Maintaining a Design System
 
-At JTC, we recognize the importance of consistency and scalability in design. A design system serves as the foundation for achieving these goals by providing a centralized source of truth for design assets, patterns, and guidelines. Here's how we incorporate the creation and maintenance of a design system into our design process:
+At Better, we recognize the importance of consistency and scalability in design. A design system serves as the foundation for achieving these goals by providing a centralized source of truth for design assets, patterns, and guidelines. Here's how we incorporate the creation and maintenance of a design system into our design process:
 
 ## 1. Establishing a Design System:
 

@@ -1,6 +1,6 @@
 ## Engineering Lead:
 
-At some point in your career at JTC, you will be asked to take up an engineering lead role, even when you are sometime not ready, in the product you are working. As a lead, you are responsible to:
+At some point in your career at Better, you will be asked to take up an engineering lead role, even when you are sometime not ready, in the product you are working. As a lead, you are responsible to:
 
 -   Work with product manager to create technical architecture based on the PRD document (ref: [PM Handbook](https://github.com/jalantechnologies/handbook/blob/main/product-management/index.md))
 -   Work with product manager to plan the work and allocate it among team members
