@@ -76,4 +76,3 @@ PM should validate the behaviour against PRD and if it is indeed a bug, s/he sho
 
 #### 1. [PM Onboarding](https://github.com/jalantechnologies/handbook/blob/main/product-management/onboarding.md)
 #### 2. [PRD Template](https://github.com/jalantechnologies/handbook/blob/main/product-management/PRD%20Template.md)
-#### 3. [How to setup Jira](https://jalantechnology-my.sharepoint.com/:w:/g/personal/mohit_jalantechnologies_com/EQzTc5JKxuxPjFvgo8nz_skByByJoRKT_qHZwHuYgHcWrA)
