@@ -5,7 +5,7 @@ Unlike 99% of agency-built software that struggles with poor foundations, leadin
  
 If you're tired of software that can’t keep up with your growth, we are here to deliver a product with a foundation you can trust.
 
-The rest of the document talks about our values and how we operate. If you have any feedback on how we can improve, please write to Jai at jjalan@bettrsw.com
+The rest of the document talks about our values and how we operate. If you have any feedback on how we can improve, please write to Jai at jjalan@bettrhq.com
 
 ## Mission
 
