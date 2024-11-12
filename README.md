@@ -80,8 +80,6 @@ These are just a few examples, best to Google “How to seek help at the workpla
 
 You should have bi-weekly or monthly 1:1 with your immediate lead. If the meeting is not on your calendar, be proactive and talk to your manager to set it up. 1:1 is effective tool to help get feedback and ensure you progress in your career as you want.
 
-Please see [this on how to structure your 1:1 meeting](https://jalantechnology-my.sharepoint.com/:i:/g/personal/jjalan_jalantechnologies_com/ESP_YHfr3bNFrFtE8F45oPYB7-R-1X-bROyYv7fKiAff7A?e=ERBKA4).
-
 ## Benefits & Perks
 
 -   **Remote Friendly**: You can work from place of your choice as long as there is a good overlap in effective working hours.
