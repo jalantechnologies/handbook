@@ -4,7 +4,7 @@
 
 We think the product manager's role is that of a driver on a bus full of passengers. They have to take everyone with them and lead the bus to the right destination while creating a delightful experience throughout the journey.
 
-At JTC, a product manager:
+At Better, a product manager:
 
 1. Works with customer to understand their problems and evangelize solution
 2. Works with a product designer to create a delightful experience for the solution
@@ -19,7 +19,7 @@ The rest of the section talks in brief about each of the steps.
 
 **Goal: Understand the problem and start the product requirement document (PRD) using this [template](https://github.com/jalantechnologies/handbook/blob/main/product-management/PRD%20Template.md)**
 
-The first step is to figure out what problem to solve. This is the **hardest part**. If you get this wrong, everything else will result in waste. At JTC, often your customer would tell you the problem statement(s). [5 Whys](https://en.wikipedia.org/wiki/Five_whys) is a good interrogative technique to use while doing the discovery and understanding the problem statement.
+The first step is to figure out what problem to solve. This is the **hardest part**. If you get this wrong, everything else will result in waste. At Better, often your customer would tell you the problem statement(s). [5 Whys](https://en.wikipedia.org/wiki/Five_whys) is a good interrogative technique to use while doing the discovery and understanding the problem statement.
 
 Once you understand the problem, create a product requirement document (PRD) using this [template](https://github.com/jalantechnologies/handbook/blob/main/product-management/PRD%20Template.md) and fill in the relevant section to document the problem statement.
 
@@ -55,7 +55,7 @@ Once the problem, solution, and KPIs are documented, you should share the docume
 
 Based on the KPIs decided during evangelizing the solution, you need to start monitoring the product usage once the feature is launched. Often, in the early stages of the feature launch, you may not get sufficient data to make a meaningful conclusion. This is where you need to mix data with your intuition. Based on data and your intuition, you should decide whether the feature launch was successful or not and refine the solution accordingly.
 
-At JTC, we recommend using the following tools:
+At Better, we recommend using the following tools:
 
 -   [MixPanel](https://mixpanel.com/) to capture usage data and build KPI reports.
 -   [Inspectlet](https://www.inspectlet.com/) to capture user sessions as video to review them. We expect you to review the few sessions manually every day to see how the feature is being used or where users are often stuck.
@@ -76,4 +76,3 @@ PM should validate the behaviour against PRD and if it is indeed a bug, s/he sho
 
 #### 1. [PM Onboarding](https://github.com/jalantechnologies/handbook/blob/main/product-management/onboarding.md)
 #### 2. [PRD Template](https://github.com/jalantechnologies/handbook/blob/main/product-management/PRD%20Template.md)
-#### 3. [How to setup Jira](https://jalantechnology-my.sharepoint.com/:w:/g/personal/mohit_jalantechnologies_com/EQzTc5JKxuxPjFvgo8nz_skByByJoRKT_qHZwHuYgHcWrA)
