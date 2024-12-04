@@ -1,5 +1,5 @@
 ## Overview
-**Better** (Prev: Jalan Technologies) is an AI powered software development agency and build web, mobile and custom applications with solid engineering foundations. We are preferred agency by top notch entrepreneurs, enterprises and ventured backed startups. 
+**Better** (Prev: Jalan Technologies) is an AI powered software development agency and build web, mobile and custom applications with solid engineering foundations. We are preferred agency by top notch entrepreneurs, enterprises and ventured backed startups.a
  
 Unlike 99% of agency-built software that struggles with poor foundations, leading to costly rebuilds and bug-ridden iterations, we prioritise creating a rock-solid technical base from the start. This ensures smoother scaling and easier future development. Over the last 7 years, we’ve had the privilege of working with bootstrapped companies that have gone on to generate over $100M in revenue, as well as unicorns and startups backed by Techstars, top VCs like Andreessen Horowitz, and executives from industry giants like Apple and Google. 
  
