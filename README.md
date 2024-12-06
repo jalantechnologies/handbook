@@ -38,13 +38,17 @@ If you are not clear on your tasks or how to quantify **80%**, be proactive and 
 While it is important that each team member has flexibility to work at times that work best for them, it is also important that they have effective collaboration hours with their immediate team members.
 
 - **Working Hours**: Set your working hours (and keep it up to date) in your status message on MS teams, ensure a minimum of **4 overlapping hours** with team's collaboration hours. Please be **online** and **available** during work hours. It is generally considered not professional, if for any reason you're not available, without prior update on MS team's channel.
-- **Daily Status Update**: Before you start your day at work, please update your team channel with following. This is very important in remote work setting to let your customer and team know about your progress.:
+- **Daily Status Update**: When you show up at work, it’s natural for people to assume you’re bringing your 100%. To keep everyone aligned, it’s important to share your daily status update before you start your day at work. This helps maintain transparency and ensures that your progress is visible to the stakeholders.
 
-    - Progress (What you worked upon)
-    - Plan (What you plan to work on)
-    - Problems (Any blocking issues)
+  - Progress (What you worked upon)
+  - Plan (What you plan to work on)
+  - Problems (Any blocking issues)
 
-People are going to assume that when you show up at work, you are bringing your 100%. In case you are going through a rough patch, not available or simply not in a mood to work, it is best to communicate transparently on your team's channel so they know. Things that may seem small like - “I had a doctor appointment, I missed to inform the team”, causes undesirable impact on overall team productivity.
+  At the end of your workday, it’s equally important to respond on the same thread where you shared your PPP to update the progress you made during the day. This helps ensure you’re following through on what 
+  you planned and keeping your team in the loop. It forms an important part of our work culture, and we usually consider that a team member is not working if they do not share their daily status update. 
+
+  In case you are going through a rough patch, not available or simply not in a mood to work, it is best to communicate transparently on your team’s channel so they know. Things that may seem small like - “I 
+  had a doctor appointment, I missed to inform the team”, causes undesirable impact on overall team productivity. 
 
 ### Meetings
 It is expected for you to attend key team meetings. It helps everyone to be on the same page.
