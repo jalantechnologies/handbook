@@ -44,9 +44,11 @@ While it is important that each team member has flexibility to work at times tha
   - Plan (What you plan to work on)
   - Problems (Any blocking issues)
 
-At the end of your workday, it’s equally important to respond on the same thread where you shared your PPP to update the progress you made during the day. This helps ensure you’re following through on what you planned and keeping your team in the loop. It forms an important part of our work culture, and we usually consider that a team member is not working if they do not share their daily status update. 
+  At the end of your workday, it’s equally important to respond on the same thread where you shared your PPP to update the progress you made during the day. This helps ensure you’re following through on what 
+  you planned and keeping your team in the loop. It forms an important part of our work culture, and we usually consider that a team member is not working if they do not share their daily status update. 
 
-In case you are going through a rough patch, not available or simply not in a mood to work, it is best to communicate transparently on your team’s channel so they know. Things that may seem small like - “I had a doctor appointment, I missed to inform the team”, causes undesirable impact on overall team productivity. 
+  In case you are going through a rough patch, not available or simply not in a mood to work, it is best to communicate transparently on your team’s channel so they know. Things that may seem small like - “I 
+  had a doctor appointment, I missed to inform the team”, causes undesirable impact on overall team productivity. 
 
 ### Meetings
 It is expected for you to attend key team meetings. It helps everyone to be on the same page.
