@@ -16,51 +16,43 @@ TLDR: Don't be lazy.
 
 - **Good commit message**:
 
-1. **Use the imperative mood**: A properly formed Git commit message should always be able to complete the sentence "If applied, this commit will <your subject line here>".
-2. **Limit the subject line to 50 characters**: This is a convention and helps keep commit messages concise.
-3. **Separate subject from body with a blank line**: The subject line should be followed by a blank line, then a more detailed explanation if necessary.
-4. **Capitalize the subject line**: The subject line should start with a capital letter.
-5. **Do not end the subject line with a period**: The subject line should be concise and to the point.
-6. **Use the body to explain what and why vs. how**: The body of the commit message should provide context about what the change is and why it was made, rather than how it was made.
+  - **Use the imperative mood**: A properly formed Git commit message should always be able to complete the sentence "If applied, this commit will <your subject line here>".
+  - **Limit the subject line to 50 characters**: This is a convention and helps keep commit messages concise.
+  - **Separate subject from body with a blank line**: The subject line should be followed by a blank line, then a more detailed explanation if necessary.
+  - **Capitalize the subject line**: The subject line should start with a capital letter.
+  - **Do not end the subject line with a period**: The subject line should be concise and to the point.
+  - **Use the body to explain what and why vs. how**: The body of the commit message should provide context about what the change is and why it was made, rather than how it was made.
 
-### Examples of Commit Messages
+  **Examples of Commit Messages:**
 
-#### Chore
+  - Chore
 
-- `chore: update dependencies`
-- `chore: clean up codebase`
+    - `chore: update dependencies`
+    - `chore: clean up codebase`
 
-#### Fix
+  - Fix
 
-- `fix: resolve issue with user login`
-- `fix: correct typo in README`
+    - `fix: correct typo in README`
+    - `fix: resolve issue with user login`
 
-#### Refactor
+  - Refactor
 
-- `refactor: improve performance of data processing`
-- `refactor: restructure project directories`
+    - `refactor: restructure project directories`
+    - `refactor: improve performance of data processing`
 
-#### Feat
-
-- `feat: add user authentication`
-- `feat: implement new dashboard UI`
+  - Feat
+    - `feat: implement new dashboard UI`
+    - `feat: add user authentication`
 
 - **Set meta info**: Set reviewers, assignee (usually to self) as well as label (task, bug, documentation etc)
 - **Lint / Analyze / Test**: Ensure that your PR meets coding standard of your code base (linting), has no bad code (static analyzer) and does not break any automated tests (test). Often these are covered by your CI pipeline, in case that is setup.
 - **Self Review**: This is a big one. Please review your PR by self first before asking for a review. This often catches 90% of nits and makes it easier for reviewer to focus on things that matters. These points are also applicable while reviewing fellow developers' PRs.
-  - **Check Description Message**: Verify that the description aligns with the defined process and is comprehensive.
-  - **Check Commit Messages**: Ensure commit messages are clear, meaningful, and follow the established format.
-  - **Preview Demo Evidence**:
-    - Include demo videos or screenshots from the preview environment to validate visual or functional changes.
-  - **No Defaults**:
-    - Avoid using default values unless absolutely necessary. Provide context or documentation for defaults used.
-  - **Avoid Magic Numbers**:
-    - Replace magic numbers with named constants or configurations.
-  - **No Cross-Service Imports**:
-    - Avoid importing code from other services to ensure modularity.
-  - **Code Readability**:
-    - Ensure code is clean, readable, and adheres to coding standards.
-    - Avoid unnecessarily complex code. Strive for simplicity and clarity.
-  - **Avoid Clever Code**:
-    - Focus on code that is straightforward and easy for others to understand.
+  - **Check Description Message**: Verify that the description aligns with the defined process mentioned in [This](https://github.com/jalantechnologies/handbook/blob/main/engineering/pr-etiquette.md) document above and is comprehensive.
+  - **Check Commit Messages**: Ensure commit messages are clear, meaningful, and follow the established format mentioned in [This](https://github.com/jalantechnologies/handbook/blob/main/engineering/pr-etiquette.md) document above.
+  - **Preview Demo Evidence**: Include demo videos or screenshots from the preview environment to validate visual or functional changes.
+  - **No Defaults**: Avoid using default values unless absolutely necessary. Provide context or documentation for defaults used.
+  - **Avoid Magic Numbers**: Replace magic numbers with named constants or configurations.
+  - **No Cross-Service Imports**: Avoid importing code from other services to ensure modularity.
+  - **Code Readability**: Ensure code is clean, readable, and adheres to coding standards. Avoid unnecessarily complex code. Strive for simplicity and clarity.
+  - **Avoid Clever Code**: Focus on code that is straightforward and easy for others to understand.
 - **PR Review by Reviewer**: Allow reviewer a time of 24 hours to review your PR and follow up should be after a particular time period (If your further work is dependent upon this PR, then you can mention the same to reviewer).
