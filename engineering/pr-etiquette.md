@@ -28,8 +28,6 @@ TLDR: Don't be lazy.
   - **Code Readability**:
     - Ensure code is clean, readable, and adheres to coding standards.
     - Avoid unnecessarily complex code. Strive for simplicity and clarity.
-  - **Align Flask Code to MERN Standards**:
-    - Maintain consistency between Flask and MERN boilerplate standards.
   - **Avoid Clever Code**:
     - Focus on code that is straightforward and easy for others to understand.
 - **PR Review by Reviewer**: Allow reviewer a time of 24 hours to review your PR and follow up should be after a particular time period (If your further work is dependent upon this PR, then you can mention the same to reviewer).
