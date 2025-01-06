@@ -7,11 +7,44 @@ TLDR: Don't be lazy.
 - **Branch**: Your branch name should be small, concise. A good branch name consists author of the change (so team members know who is working on it), the type of change that is being proposed (feature, bug, etc) and small description for the change (usually the shortest description of the ticket you working on or the ticket number itself). Examples - `ankit/fix/username-label-issue`, `ankit/feat/platform-3244-fix-test`.
 - **Good title**: Please use a title that explains what the change is about in few words. If you are working on a feature to allow user to login by email, a good title would be `Allow user to login by email`
 - **Good description**: Each PR is like adding a new page to a constitution. Please add description in PR template to describe what and why behind the change. You should be very liberal and document things such as following. [This](https://github.com/jalantechnologies/boilerplate-mern/blob/main/.github/pull_request_template.md) is a good PR template that we generally use which breaks down your description into:
+
   - Why is this change needed? If this is fixing a bug, what's the root cause of this bug
   - API changes
   - Database changes
   - UI screenshots, if applicable
   - Document manual and automated tests
+
+- **Good commit message**:
+
+1. **Use the imperative mood**: A properly formed Git commit message should always be able to complete the sentence "If applied, this commit will <your subject line here>".
+2. **Limit the subject line to 50 characters**: This is a convention and helps keep commit messages concise.
+3. **Separate subject from body with a blank line**: The subject line should be followed by a blank line, then a more detailed explanation if necessary.
+4. **Capitalize the subject line**: The subject line should start with a capital letter.
+5. **Do not end the subject line with a period**: The subject line should be concise and to the point.
+6. **Use the body to explain what and why vs. how**: The body of the commit message should provide context about what the change is and why it was made, rather than how it was made.
+
+### Examples of Commit Messages
+
+#### Chore
+
+- `chore: update dependencies`
+- `chore: clean up codebase`
+
+#### Fix
+
+- `fix: resolve issue with user login`
+- `fix: correct typo in README`
+
+#### Refactor
+
+- `refactor: improve performance of data processing`
+- `refactor: restructure project directories`
+
+#### Feat
+
+- `feat: add user authentication`
+- `feat: implement new dashboard UI`
+
 - **Set meta info**: Set reviewers, assignee (usually to self) as well as label (task, bug, documentation etc)
 - **Lint / Analyze / Test**: Ensure that your PR meets coding standard of your code base (linting), has no bad code (static analyzer) and does not break any automated tests (test). Often these are covered by your CI pipeline, in case that is setup.
 - **Self Review**: This is a big one. Please review your PR by self first before asking for a review. This often catches 90% of nits and makes it easier for reviewer to focus on things that matters. These points are also applicable while reviewing fellow developers' PRs.
