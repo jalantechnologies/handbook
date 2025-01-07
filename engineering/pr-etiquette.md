@@ -52,7 +52,7 @@ TLDR: Don't be lazy.
   - **Preview Demo Evidence**: Include demo videos or screenshots from the preview environment to validate visual or functional changes.
   - **No Defaults**: Avoid using default values unless absolutely necessary. Provide context or documentation for defaults used.
   - **Avoid Magic Numbers**: Replace magic numbers with named constants or configurations.
-  - **No Cross-Service Imports**: Avoid importing code from other services to ensure modularity.
+  - **No Cross-Module Imports**: Avoid importing code from other modules to ensure modularity. Only Service and Types should be imported from one module into another.
   - **Code Readability**: Ensure code is clean, readable, and adheres to coding standards. Avoid unnecessarily complex code. Strive for simplicity and clarity.
   - **Avoid Clever Code**: Focus on code that is straightforward and easy for others to understand.
 - **PR Review by Reviewer**: Allow reviewer a time of 24 hours to review your PR and follow up should be after a particular time period (If your further work is dependent upon this PR, then you can mention the same to reviewer).
