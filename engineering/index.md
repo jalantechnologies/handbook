@@ -24,6 +24,7 @@ Understanding the user base in this scenario can lead to better product developm
 - [How to name your automated tests](https://markus.oberlehner.net/blog/naming-your-unit-tests-it-should-vs-given-when-then/)
 - [How to write better git commit messages](https://cbea.ms/git-commit/#seven-rules)
 - [How to keep your code healthy](https://medium.com/@learnstuff.io/broken-window-theory-in-software-development-bef627a1ce99)
+- [Three Git Configurations that Should Be the Default](https://spin.atomicobject.com/git-configurations-default)
 
 ## Getting Started:
 - Fresher: [Start here](https://github.com/jalantechnologies/handbook/blob/main/engineering/onboarding-fresher.md)
