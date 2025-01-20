@@ -81,7 +81,7 @@ This section outlines the steps for both **new product kick-off**.
    - Request access to the **Atlassian Site with Admin Privilege** on the **Product Team Channel**.
    - Request access via the **IT channel** to get the **existing email alias** of the product.
    - Go through Miro Board (details should be in the **Credentials File**) and if it doesn't exist then **create a new one** with the alias email.
-   - Locate and read through all **existing documentation around Product**.
+   - Locate and read through all **existing documentation around Product** - accessible from the General Channel Tab or Confluence. 
    - Request access to Figma Designs. 
    - Pin key documents in **MS Team General Channel** that are not already. 
    - Meet with the current **team composition**.
