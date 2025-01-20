@@ -14,7 +14,7 @@ This section outlines the steps for both **new product kick-off**.
    - Pin key documents (PRD, BRD, Figma, Jira, Miro, Tools & Credentials) in the **MS Team General Channel Created Below**.
 
 ### 2. **MS Team & Atlassian Tools Setup**
-   - Request on the **Product Team** channel to create a new **MS Team** for the product.
+   - Request on the **Product Team** channel to create a new **MS Team** for the product for day-to-day communication.
    - Default channels:
      - General (Use this channel to use for PPP and any common product discussion)
      - Engineering (Use this channel for engineering discussion and work) 
@@ -36,12 +36,12 @@ This section outlines the steps for both **new product kick-off**.
    - Store details in the **Tools & Credentials** file in Confluence.
 
 ### 5. **Email Alias Setup**
-   - Request an **email alias** via the **IT channel** (e.g., `productname@bettrsw.com`).
+   - Request an **email alias** via the **IT channel** (e.g., `productname@bettrsw.com`) for easy access of common emails by every team member of the product. 
    - List all **team members** who need access.
 
 ## **Phase 2: Development Kick-Off Preparation**
 
-### 1. **Assemble the Team**
+### 1. **Request the Team**
    - Submit a request to the **Product Team Channel** specifying:
      - **Product Name**
      - **Team Requirements** (Designer, Engineer, Tech Lead)
