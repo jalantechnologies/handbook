@@ -87,7 +87,7 @@ You should have bi-weekly or monthly 1:1 with your immediate lead. If the meetin
 ## Benefits & Perks
 
 -   **Remote Friendly**: You can work from place of your choice as long as there is a good overlap in effective working hours.
--   **Comprehensive Health Insurance**: INR 3L health insurance with a wide hospital coverage that covers your **spouse**, **children** and **parents (with existing pre-conditions)**, including access to remote on call doctors.
+-   **Comprehensive Health Insurance**: INR 3L health insurance with a wide hospital coverage that covers your **spouse** and **children** (with existing pre-conditions)**, including access to remote on call doctors.
 -   **Workation**: Annual off-site(s) every year, fully paid, for the team to get together to work and play.
 -   **Learning Opportunities**: Access to best trainings for learning and skill advancements.
 -   **Time Offs**: 12 paid leaves, 6 leaves per year on top of 14 national and regional holidays.
