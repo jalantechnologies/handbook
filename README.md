@@ -73,6 +73,12 @@ Please plan and inform your time off a week before. To take time off,
 
 You do not need to seek approval from anyone. We trust that you will do the right thing keeping everyone's interest in mind. Last minute time off, except medical emergencies, are discouraged as it disrupts work flow.
 
+### Leave Policy Update
+- Team members who join the company on or before the 15th of a month will be credited with 1 paid leave for that month. Those who join after the 15th will receive 0.5 paid leave.
+- At the end of the calendar year, a maximum of 6 paid leaves can be carried forward to the following year. Sick leaves will lapse on the last day of the year and cannot be carried forward.
+- Employees are not permitted to take leaves while serving their notice period. Additionally, no paid or sick leaves will be credited during the notice period.
+- Leave encashment is applicable only after completing one year with the company, and only unused paid leaves are eligible for encashment. Sick leaves are not encashable.
+
 ### Async Communication
 Due to the nature of remote work, you are expected to adjust your communication style to optimize for asynchronous working. This means that you should prefer things in writing over verbal communication and write with clarity. Write a document or message in detail and invite comments from others to collaborate. Write verbosely to remove guess work from other team members.
 
