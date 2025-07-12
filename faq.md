@@ -18,3 +18,9 @@ From time to time, we do recognize team members at various levels. We gave out c
 
 #### 6. We are expecting a baby. Can you talk about maternity and paternity leaves?
 Congratulations! That's awesome. To make sure you can spend time with your family and the baby, we have provision for maternity and paternity leaves. Please talk to your HR about it.
+
+#### 7. What are the eligibility criteria for leave encashment, and which leaves qualify for it?
+Leave encashment is applicable only after completing one year with the company, and only unused paid leaves are eligible for encashment. Sick leaves are not encashable.
+
+#### 8. How is monthly paid leave credited for employees based on their date of joining?
+Team members who join the company on or before the 15th of a month will be credited with 1 paid leave for that month. Those who join after the 15th will receive 0.5 paid leave.
