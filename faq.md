@@ -33,3 +33,6 @@ Paid leaves cannot be taken in advance under any circumstances; team members may
 
 #### 11. What happens if a team member forgets to apply for their leave in the Keka?
 In cases where a team member fails to record their leave in the Keka system, the company will deduct the corresponding paid leave from their balance on their behalf.
+
+#### 12. Can employees take leave or receive paid/sick leave credits while serving their notice period?
+Employees are not permitted to take leaves while serving their notice period. Additionally, no paid or sick leaves will be credited during the notice period.
