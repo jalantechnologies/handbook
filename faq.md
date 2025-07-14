@@ -27,3 +27,9 @@ Team members who join the company on or before the 15th of a month will be credi
 
 #### 9. Can unused paid and sick leaves be carried forward to the next calendar year?
 At the end of the calendar year, a maximum of 6 paid leaves can be carried forward to the following year. Sick leaves will lapse on the last day of the year and cannot be carried forward.
+
+#### 10. Are team members allowed to take paid leaves in advance if they have no available leave balance?
+Paid leaves cannot be taken in advance under any circumstances; team members may only utilize leaves that are currently available in their balance.
+
+#### 11. What happens if a team member forgets to apply for their leave in the Keka?
+In cases where a team member fails to record their leave in the Keka system, the company will deduct the corresponding paid leave from their balance on their behalf.
