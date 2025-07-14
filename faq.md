@@ -19,20 +19,27 @@ From time to time, we do recognize team members at various levels. We gave out c
 #### 6. We are expecting a baby. Can you talk about maternity and paternity leaves?
 Congratulations! That's awesome. To make sure you can spend time with your family and the baby, we have provision for maternity and paternity leaves. Please talk to your HR about it.
 
-#### 7. What are the eligibility criteria for leave encashment, and which leaves qualify for it?
-Leave encashment is applicable only after completing one year with the company, and only unused paid leaves are eligible for encashment. Sick leaves are not encashable.
+#### 7. What are the company’s policies regarding leave eligibility, accrual, encashment, carry forward, and leave usage during the notice period?
+- **Leave Encashment**
+Leave encashment is permitted only after an employee has completed one year of service with the company. Only unused paid leaves are eligible for encashment. Sick leaves are not eligible for encashment under any circumstances.
 
-#### 8. How is monthly paid leave credited for employees based on their date of joining?
-Team members who join the company on or before the 15th of a month will be credited with 1 paid leave for that month. Those who join after the 15th will receive 0.5 paid leave.
+- **Monthly Leave Accrual**
+Paid leave is credited based on the employee’s date of joining:
 
-#### 9. Can unused paid and sick leaves be carried forward to the next calendar year?
-At the end of the calendar year, a maximum of 6 paid leaves can be carried forward to the following year. Sick leaves will lapse on the last day of the year and cannot be carried forward.
+- Employees who join on or before the 15th of the month will receive 1 paid leave for that month.
+- Employees who join after the 15th will receive 0.5 paid leave for that month.
 
-#### 10. Are team members allowed to take paid leaves in advance if they have no available leave balance?
-Paid leaves cannot be taken in advance under any circumstances; team members may only utilize leaves that are currently available in their balance.
+- **Leave Carry Forward**
+At the end of the calendar year:
 
-#### 11. What happens if a team member forgets to apply for their leave in the Keka?
-In cases where a team member fails to record their leave in the Keka system, the company will deduct the corresponding paid leave from their balance on their behalf.
+- A maximum of 6 unused paid leaves may be carried forward to the following year.
+- Sick leaves will lapse on the last day of the year and cannot be carried forward.
 
-#### 12. Can employees take leave or receive paid/sick leave credits while serving their notice period?
-Employees are not permitted to take leaves while serving their notice period. Additionally, no paid or sick leaves will be credited during the notice period.
+- **Advance Leave Usage**
+Employees are not allowed to take paid leaves in advance. Only the leave balance available at the time of applying can be utilized.
+
+- **Failure to Record Leave**
+If an employee fails to apply for their leave in the Keka, the company will deduct the corresponding paid leave from their balance on their behalf.
+
+- **Leaves During Notice Period**
+Employees are not permitted to take any leaves during their notice period. Additionally, no paid or sick leaves will be credited while serving the notice period.
