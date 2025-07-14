@@ -78,6 +78,8 @@ You do not need to seek approval from anyone. We trust that you will do the righ
 - At the end of the calendar year, a maximum of 6 paid leaves can be carried forward to the following year. Sick leaves will lapse on the last day of the year and cannot be carried forward.
 - Employees are not permitted to take leaves while serving their notice period. Additionally, no paid or sick leaves will be credited during the notice period.
 - Leave encashment is applicable only after completing one year with the company, and only unused paid leaves are eligible for encashment. Sick leaves are not encashable.
+- Paid leaves cannot be taken in advance under any circumstances; team members may only utilize leaves that are currently available in their balance.
+- In cases where a team member fails to record their leave in the Keka system, the company will deduct the corresponding paid leave from their balance on their behalf.
 
 ### Async Communication
 Due to the nature of remote work, you are expected to adjust your communication style to optimize for asynchronous working. This means that you should prefer things in writing over verbal communication and write with clarity. Write a document or message in detail and invite comments from others to collaborate. Write verbosely to remove guess work from other team members.
