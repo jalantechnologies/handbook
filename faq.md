@@ -24,3 +24,6 @@ Leave encashment is applicable only after completing one year with the company, 
 
 #### 8. How is monthly paid leave credited for employees based on their date of joining?
 Team members who join the company on or before the 15th of a month will be credited with 1 paid leave for that month. Those who join after the 15th will receive 0.5 paid leave.
+
+#### 9. Can unused paid and sick leaves be carried forward to the next calendar year?
+At the end of the calendar year, a maximum of 6 paid leaves can be carried forward to the following year. Sick leaves will lapse on the last day of the year and cannot be carried forward.
