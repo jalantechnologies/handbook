@@ -5,15 +5,20 @@
 Your salary would be prorated based on number of days you worked with us since your date of joining to the end of the month. Ex: Your salary is INR 50,000 and you join in Jan 12, 2021. You would get INR 32,258 `(=50000 * (20 / 31))` and paid by Feb 5th.
 
 #### 2. What are the company’s policies regarding leave eligibility, accrual, encashment, carry forward, and leave usage during the notice period?
-- **Leave Encashment & Leave Accrual:** Eligible only **after completing one year** of service. Only unused paid leaves can be encashed; sick leaves are not encashable. Joining on or before the 15th: 1 paid leave for that month. Joining after the 15th: 0.5 paid leave for that month.
-
-- **Leave Carry Forward:** At year-end, a maximum of **6 paid leaves** can be carried forward. Sick leaves will lapse and cannot be carried forward.
-
-- **Advance Leave Usage:** Paid leaves cannot be taken in advance. Employees may use only the leaves available in their current balance.
-
-- **Unrecorded Leave in Keka:** If an employee forgets to apply for leave in Keka, the company will deduct the corresponding paid leave on their behalf.
-
-- **Notice Period Policy:** No leaves are allowed during the notice period. Paid and sick leaves will not be credited during this time.
+- **Leave Accrual & Encashment:** You start earning paid leaves from your joining month - if you join on or before the 15th you’ll get 1 day of paid leave that month, or 0.5 day if you join after. After completing **one year with the company**, you're eligible to encash unused paid leaves (note: sick leaves cannot be encashed).
+ 
+- **Carrying Leaves Forward:** At the end of the year, you can carry forward up to 6 days of unused paid leave. Any excess will be forfeited. Sick leaves don’t roll over - they’ll expire at year-end.
+ 
+- **No Advance Leave:** You can use only the leave you've already earned. Unfortunately, you can’t take leave in advance.
+ 
+- **Forgot to Apply Leave in Keka?** No worries - we’ve got you covered. If you forget to apply in Keka, we'll automatically adjust your balance to reflect the leave you took.
+ 
+- **Notice Period Rules:** No leaves allowed once your notice period begins. During notice period, no new paid or sick leaves get credited.
+ 
+- **Why these rules exist (in a nutshell):** To keep everything fair and transparent for everyone. To help you plan better—no surprises at year-end. To ensure policy consistency during critical phases like the notice period.
+ 
+If you ever have questions or want help checking your leave balance, feel free to reach out to HR anytime!
+ 
 
 #### 3. What's the health insurance coverage looks like?
 It's INR 3,00,000 coverage and will cover you, your spouse and children.
