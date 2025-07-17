@@ -11,13 +11,9 @@ Your salary would be prorated based on number of days you worked with us since y
  
 - **No Advance Leave:** You can use only the leave you've already earned. Unfortunately, you can’t take leave in advance.
  
-- **Forgot to Apply Leave in Keka?** No worries - we’ve got you covered. If you forget to apply in Keka, we'll automatically adjust your balance to reflect the leave you took.
+- **Forgot to Apply Leave in Keka?** No worries - we’ve got you covered. If you forget to apply in Keka, we'll automatically adjust your paid leave balance so, there are no confusions later on.
  
 - **Notice Period Rules:** No leaves allowed once your notice period begins. During notice period, no new paid or sick leaves get credited.
- 
-- **Why these rules exist (in a nutshell):** To keep everything fair and transparent for everyone. To help you plan better—no surprises at year-end. To ensure policy consistency during critical phases like the notice period.
- 
-If you ever have questions or want help checking your leave balance, feel free to reach out to HR anytime!
  
 #### 3. What's the health insurance coverage looks like?
 It's INR 3,00,000 coverage and will cover you, your spouse and children.
