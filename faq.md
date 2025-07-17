@@ -19,7 +19,6 @@ Your salary would be prorated based on number of days you worked with us since y
  
 If you ever have questions or want help checking your leave balance, feel free to reach out to HR anytime!
  
-
 #### 3. What's the health insurance coverage looks like?
 It's INR 3,00,000 coverage and will cover you, your spouse and children.
 
