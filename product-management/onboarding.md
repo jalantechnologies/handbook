@@ -34,3 +34,10 @@
 - Work closely with the Product team to refine user stories, clarify requirements, and align on sprint goals.
 
 At the end of the first week of onboarding, you should be ready to lead the sprint meetings, outlining goals, priorities, and expectations for the upcoming sprint.
+
+---
+
+#### Walkthrough Video
+
+For a walkthrough, watch this video:  
+[https://www.loom.com/share/1c1ced9c55e24ecdb659cf3b693ea17a?sid=14da3485-4f1c-4cb9-944c-1cf253e27b26](https://www.loom.com/share/1c1ced9c55e24ecdb659cf3b693ea17a?sid=14da3485-4f1c-4cb9-944c-1cf253e27b26)
