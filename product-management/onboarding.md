@@ -37,7 +37,9 @@ At the end of the first week of onboarding, you should be ready to lead the spri
 
 ---
 
-#### Walkthrough Video
+#### Walkthrough Videos
 
-For a walkthrough, watch this video:  
-[https://www.loom.com/share/1c1ced9c55e24ecdb659cf3b693ea17a?sid=14da3485-4f1c-4cb9-944c-1cf253e27b26](https://www.loom.com/share/1c1ced9c55e24ecdb659cf3b693ea17a?sid=14da3485-4f1c-4cb9-944c-1cf253e27b26)
+For walkthroughs, watch these videos:  
+[https://www.loom.com/share/1c1ced9c55e24ecdb659cf3b693ea17a?sid=14da3485-4f1c-4cb9-944c-1cf253e27b26](https://www.loom.com/share/1c1ced9c55e24ecdb659cf3b693ea17a?sid=14da3485-4f1c-4cb9-944c-1cf253e27b26)  
+[https://www.loom.com/share/0898a3721b5d4c348120c782034ba436?sid=6f8c726a-31cf-43ab-91fb-acc0fec5cc66](https://www.loom.com/share/0898a3721b5d4c348120c782034ba436?sid=6f8c726a-31cf-43ab-91fb-acc0fec5cc66)  
+[https://www.loom.com/share/e5fa3ba0846e48ce90f2d42aca323277?sid=73c74c8f-caf6-47b1-89f3-f37a859910dc](https://www.loom.com/share/e5fa3ba0846e48ce90f2d42aca323277?sid=73c74c8f-caf6-47b1-89f3-f37a859910dc)
