@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Onboarding
 
 #### Understand the product and [product management processes](/product-management/index.md) to take charge of the scrum

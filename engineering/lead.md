@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Engineering Lead:
 
 At some point in your career at Better, you will be asked to take up an engineering lead role, even when you are sometime not ready, in the product you are working. As a lead, you are responsible to:

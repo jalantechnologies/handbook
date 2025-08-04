@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Onboarding Associates
 
 At Better, we primarily work with enterprises to build solutions that help them to achieve business efficiencies and scale their business. For a large part, the solutions we deliver are based on web technologies. As of writing this document, our choice of stack is **Python, React (with Typescript) and React-Native (for mobile apps)**. 
@@ -77,7 +81,7 @@ Note: We expect you to finish this in 2 weeks, assuming you are putting in at le
   - File names should always be in lowercase. Use hyphens (-) to separate words. For example: `todo-controller.ts`
 
 ###  Raise a PR
-We encourage you to raise your PR daily, push your changes, once you are done for the day, a PR on Github to merge these changes against the develop branch. Please see raising [pull request etiquette](/engineering/pr-etiquette.md).
+We encourage you to raise your PR daily, push your changes, once you are done for the day, a PR on Github to merge these changes against the develop branch. Please see raising [pull request etiquette](/engineering/pr-etiquette).
 
 ### Important soft skills to pay attention to
 1.  Avoiding repetition of mistakes: While mistakes are a natural part of the learning process, we value individuals who can take feedback, learn from their mistakes and apply that knowledge to prevent repetition.
