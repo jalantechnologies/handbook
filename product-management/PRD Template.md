@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Product Requirements Document (PRD)
 
 ## [Product Name]

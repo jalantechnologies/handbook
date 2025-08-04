@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Etiquette while raise a PR for authors
 
 TLDR: Don't be lazy.
@@ -47,8 +51,8 @@ TLDR: Don't be lazy.
 - **Set meta info**: Set reviewers, assignee (usually to self) as well as label (task, bug, documentation etc)
 - **Lint / Analyze / Test**: Ensure that your PR meets coding standard of your code base (linting), has no bad code (static analyzer) and does not break any automated tests (test). Often these are covered by your CI pipeline, in case that is setup.
 - **Self Review**: This is a big one. Please review your PR by self first before asking for a review. This often catches 90% of nits and makes it easier for reviewer to focus on things that matters. These points are also applicable while reviewing fellow developers' PRs.
-  - **Check Description Message**: Verify that the description aligns with the defined process mentioned in [This](/engineering/pr-etiquette.md) document above and is comprehensive.
-  - **Check Commit Messages**: Ensure commit messages are clear, meaningful, and follow the established format mentioned in [This](/engineering/pr-etiquette.md) document above.
+  - **Check Description Message**: Verify that the description aligns with the defined process mentioned in [This](/engineering/pr-etiquette) document above and is comprehensive.
+  - **Check Commit Messages**: Ensure commit messages are clear, meaningful, and follow the established format mentioned in [This](/engineering/pr-etiquette) document above.
   - **Preview Demo Evidence**: Include demo videos or screenshots from the preview environment to validate visual or functional changes.
   - **No Defaults**: Avoid using default values unless absolutely necessary. Provide context or documentation for defaults used.
   - **Avoid Magic Numbers**: Replace magic numbers with named constants or configurations.

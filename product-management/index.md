@@ -17,11 +17,11 @@ The rest of the section talks in brief about each of the steps.
 
 #### 1. Understanding Problem
 
-**Goal: Understand the problem and start the product requirement document (PRD) using this [template](/product-management/PRD%20Template.md)**
+**Goal: Understand the problem and start the product requirement document (PRD) using this [template](/product-management/PRD%20Template)**
 
 The first step is to figure out what problem to solve. This is the **hardest part**. If you get this wrong, everything else will result in waste. At Better, often your customer would tell you the problem statement(s). [5 Whys](https://en.wikipedia.org/wiki/Five_whys) is a good interrogative technique to use while doing the discovery and understanding the problem statement.
 
-Once you understand the problem, create a product requirement document (PRD) using this [template](/product-management/PRD%20Template.md) and fill in the relevant section to document the problem statement.
+Once you understand the problem, create a product requirement document (PRD) using this [template](/product-management/PRD%20Template) and fill in the relevant section to document the problem statement.
 
 #### 2. Evangelize Solution
 
@@ -74,5 +74,5 @@ PM should validate the behaviour against PRD and if it is indeed a bug, s/he sho
 
 ## Important Links:
 
-#### 1. [PM Onboarding](/product-management/onboarding.md)
-#### 2. [PRD Template](/product-management/PRD%20Template.md)
+#### 1. [PM Onboarding](/product-management/onboarding)
+#### 2. [PRD Template](/product-management/PRD%20Template)
