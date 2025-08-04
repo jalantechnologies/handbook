@@ -1,6 +1,6 @@
 ### Onboarding
 
-#### Understand the product and [product management processes](https://github.com/jalantechnologies/handbook/blob/main/product-management/index.md) to take charge of the scrum
+#### Understand the product and [product management processes](/product-management/index.md) to take charge of the scrum
 
 ##### Day 1: Introduction and Orientation
 
