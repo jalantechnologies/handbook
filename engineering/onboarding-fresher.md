@@ -9,7 +9,7 @@ This document assumes that you have no or minimal experience with this stack of 
 Please ensure that you have reviewed [company working principles](https://github.com/jalantechnologies/handbook?tab=readme-ov-file#working-at-jalan-technologies). Read it twice, in detail, as 99% associates often overlook the details and often causes mismatch of expectations.
 
 ### How we think about software development
-Please ensure that you have reviewed [this article on Github](https://github.com/jalantechnologies/handbook/blob/main/engineering/index.md) how we think about software development, and best practices we recommend to follow.
+Please ensure that you have reviewed [this article on Github](/engineering/index.md) how we think about software development, and best practices we recommend to follow.
 
 ### Mentorship
 At the time of joining, you will be assigned a mentor who will be your single point of contact on Engineering as you go through the onboarding. If you have not been assigned a mentor, please reach out to HR to ask for your mentor. You are expected to share your daily status update on `Onboarding (Engineering)` channel which helps your mentor to follow your progress. Your mentor will also meet once a week in person to give you feedback, answer any questions if any.
@@ -77,7 +77,7 @@ Note: We expect you to finish this in 2 weeks, assuming you are putting in at le
   - File names should always be in lowercase. Use hyphens (-) to separate words. For example: `todo-controller.ts`
 
 ###  Raise a PR
-We encourage you to raise your PR daily, push your changes, once you are done for the day, a PR on Github to merge these changes against the develop branch. Please see raising [pull request etiquette](https://github.com/jalantechnologies/handbook/blob/main/engineering/pr-etiquette.md).
+We encourage you to raise your PR daily, push your changes, once you are done for the day, a PR on Github to merge these changes against the develop branch. Please see raising [pull request etiquette](/engineering/pr-etiquette.md).
 
 ### Important soft skills to pay attention to
 1.  Avoiding repetition of mistakes: While mistakes are a natural part of the learning process, we value individuals who can take feedback, learn from their mistakes and apply that knowledge to prevent repetition.

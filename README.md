@@ -29,5 +29,5 @@ Please read [this page](/common/performance_growth.md) to learn about performanc
 
 ## Functional Onboarding
 
--   Software Engineering, start [here](https://github.com/jalantechnologies/handbook/blob/main/engineering/index.md)
--   Product Manager, start [here](https://github.com/jalantechnologies/handbook/blob/main/product-management/index.md)
+-   Software Engineering, start [here](/engineering/index.md)
+-   Product Manager, start [here](/product-management/index.md)
