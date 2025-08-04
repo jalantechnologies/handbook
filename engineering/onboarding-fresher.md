@@ -13,7 +13,7 @@ This document assumes that you have no or minimal experience with this stack of 
 Please ensure that you have reviewed [company working principles](https://github.com/jalantechnologies/handbook?tab=readme-ov-file#working-at-jalan-technologies). Read it twice, in detail, as 99% associates often overlook the details and often causes mismatch of expectations.
 
 ### How we think about software development
-Please ensure that you have reviewed [this article on Github](/engineering/index.md) how we think about software development, and best practices we recommend to follow.
+Please ensure that you have reviewed [this article on Github](/engineering/index) how we think about software development, and best practices we recommend to follow.
 
 ### Mentorship
 At the time of joining, you will be assigned a mentor who will be your single point of contact on Engineering as you go through the onboarding. If you have not been assigned a mentor, please reach out to HR to ask for your mentor. You are expected to share your daily status update on `Onboarding (Engineering)` channel which helps your mentor to follow your progress. Your mentor will also meet once a week in person to give you feedback, answer any questions if any.
