@@ -37,7 +37,11 @@ Once the solution and KPIs are agreed upon, update the PRD document.
 
 **Goal: Work with engineering to plan and execute.**
 
-Once the problem, solution, and KPIs are documented, you should share the document with the tech lead and/or engineers and ask him/her to design the solution and help break down the work into small technical tasks with rough estimates. You should create [JIRA](https://www.atlassian.com/software/jira) tickets based on those work items. For planning purposes, we use agile methodology. Our sprints are 2 weeks long and we recommend product manager conduct the following scrum ceremonies:
+[Kindly refer to the video for a walkthrough of series of the steps to start and end the project](https://www.loom.com/share/a6da5fe2bb2e4be49110baaaf99ac69c)
+
+Once the problem, solution, and KPIs are documented, you should share the document with the tech lead and/or engineers and ask him/her to design the solution and help break down the work into small technical tasks with rough estimates. You should create [JIRA](https://www.atlassian.com/software/jira) tickets based on those work items. For planning purposes, we use agile methodology. Our sprints are 2 weeks long. 
+
+The following are the actionables expected from a PM to lay the groundwork for successful project delivery: 
 
 -   **Sprint planning (Duration: 60 minutes, When: 2 days before the sprint starts)**: In the sprint planning, you present the work items to the Tech Lead that you would like the engineering team to achieve. This is an opportunity for the Tech Lead to ask questions and for you to get his buyoff on the plan.
 
