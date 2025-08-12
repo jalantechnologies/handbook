@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>HUBFLOW | handbook</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="HUBFLOW" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="How we operate as a company" />
+<meta property="og:description" content="How we operate as a company" />
+<link rel="canonical" href="http://localhost:4000/gitflow-windows.html" />
+<meta property="og:url" content="http://localhost:4000/gitflow-windows.html" />
+<meta property="og:site_name" content="handbook" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="HUBFLOW" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"How we operate as a company","headline":"HUBFLOW","url":"http://localhost:4000/gitflow-windows.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=5291901fd59f39575987dd87b4e8f327ab0885de">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/">handbook</a></h1>
+      
+
+      
+<h1 id="hubflow">HUBFLOW</h1>
+
+<h2 id="installation-for-windows">Installation for Windows</h2>
+
+<p>To install hubflow it is recommended to use git bash and run the git bash as administrator for the following commands.
+<code class="language-plaintext highlighter-rouge">git clone https://github.com/datasift/gitflow hubflow</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">cd hubflow</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">cp git-hf* '/mingw64/bin/'</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">cp hubflow-common '/mingw64/bin/'</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">git submodule update --remote --init --checkout</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">cp shFlags/src/shflags '/mingw64/bin/hubflow-shFlags'</code></p>
+
+<h1 id="test-hubflow">Test hubflow</h1>
+
+<p><code class="language-plaintext highlighter-rouge">git hf help</code></p>
+
+<h1 id="key-notes">Key Notes</h1>
+
+<p>It’s much easier to have git bash in your windows system to use hubflow. 
+If you find any difficulties try running the commands which includes path, without quotes. example:
+replace <code class="language-plaintext highlighter-rouge">cp hubflow-common '/mingw64/bin/'</code> with <code class="language-plaintext highlighter-rouge">cp hubflow-common /mingw64/bin/</code></p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
