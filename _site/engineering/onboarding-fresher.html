@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Onboarding Associates | handbook</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Onboarding Associates" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="How we operate as a company" />
+<meta property="og:description" content="How we operate as a company" />
+<link rel="canonical" href="http://localhost:4000/engineering/onboarding-fresher.html" />
+<meta property="og:url" content="http://localhost:4000/engineering/onboarding-fresher.html" />
+<meta property="og:site_name" content="handbook" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Onboarding Associates" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"How we operate as a company","headline":"Onboarding Associates","url":"http://localhost:4000/engineering/onboarding-fresher.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=5291901fd59f39575987dd87b4e8f327ab0885de">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/">handbook</a></h1>
+      
+
+      <h1 id="onboarding-associates">Onboarding Associates</h1>
+
+<p>At Better, we primarily work with enterprises to build solutions that help them to achieve business efficiencies and scale their business. For a large part, the solutions we deliver are based on web technologies. As of writing this document, our choice of stack is <strong>Python, React (with Typescript) and React-Native (for mobile apps)</strong>.</p>
+
+<p>This document assumes that you have no or minimal experience with this stack of professional software development in general. However, it assumes that you are proactive, independent and have strong problem solving skills to be able to figure out things on your own. If you do, we hope that you should be able to move through this quickly.</p>
+
+<h2 id="getting-started">Getting started</h2>
+<h3 id="how-we-work">How we work</h3>
+<p>Please ensure that you have reviewed <a href="https://github.com/jalantechnologies/handbook?tab=readme-ov-file#working-at-jalan-technologies">company working principles</a>. Read it twice, in detail, as 99% associates often overlook the details and often causes mismatch of expectations.</p>
+
+<h3 id="how-we-think-about-software-development">How we think about software development</h3>
+<p>Please ensure that you have reviewed <a href="/engineering/index">this article on Github</a> how we think about software development, and best practices we recommend to follow.</p>
+
+<h3 id="mentorship">Mentorship</h3>
+<p>At the time of joining, you will be assigned a mentor who will be your single point of contact on Engineering as you go through the onboarding. If you have not been assigned a mentor, please reach out to HR to ask for your mentor. You are expected to share your daily status update on <code class="language-plaintext highlighter-rouge">Onboarding (Engineering)</code> channel which helps your mentor to follow your progress. Your mentor will also meet once a week in person to give you feedback, answer any questions if any.</p>
+
+<h2 id="setup">Setup</h2>
+<h3 id="create-github-handle-for-work">Create Github handle for work</h3>
+<p>Since our source code is stored on Github, you need a Github handle to contribute. There are two options:</p>
+
+<ol>
+  <li>Use personal Github handle (<strong>recommended</strong>): Add your Better work email as <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/adding-an-email-address-to-your-github-account">secondary email to your Github</a> handle.</li>
+</ol>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git config --global user.name &lt;YOUR NAME&gt;
+$ git config --global user.email &lt;YOUR WORK EMAIL&gt;
+</code></pre></div></div>
+
+<p>This way, you build your personal Github profile while doing commit on behalf of the company.</p>
+
+<ol>
+  <li>Create a separate Better specific Github handle.</li>
+</ol>
+
+<h3 id="ide">IDE</h3>
+<p>Every team member has their preference but we generally use VSCode. Please also install a <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">prettier plugin</a> to make sure the code you write in any project is well formatted.</p>
+
+<h2 id="4-weeks-onboarding-plan">4 weeks onboarding plan</h2>
+<p>Our onboarding is divided into two phase:</p>
+<h3 id="1-building-a-todo-application-using-python-flask-and-react">1. Building a TODO application using Python (flask), and React</h3>
+<p>Since we assume that you may or may not be familiar with web development and/or Python (flask) and React technology, the goal of this 2 weeks exercise is for you to learn this stack using online resources of your choice while building a simple TODO list application along the way, with following requirements:</p>
+
+<p>As a user I should be able to:</p>
+
+<ul>
+  <li>signup, login and logout from the application.</li>
+  <li>create TODO item with following details - Title, description, Type (Official, Personal, Hobby etc.), and Due date.</li>
+  <li>edit TODO item and update any details.</li>
+  <li>mark the status of TODO item to DONE.</li>
+  <li>mark the status of TODO item from DONE to back to original status (To Do).</li>
+  <li>delete a TODO item.</li>
+  <li>see the list of TODO items with following filters - Overdue (due date &lt; Today’s date), Status (To Do and Done)</li>
+</ul>
+
+<p>Note: We expect you to finish this in 2 weeks, assuming you are putting in at least 8 hours a day, 5 days a week. Often when in college or coming out of college, we have a tendency to do things last minute. We recommend that you do not rush through or keep things for last minute or finish just for the sake of finishing. This is an opportunity for you to build YOUR skills. If you do not give 100%, we have seen over and over that such engineers do not end up performing well.</p>
+
+<h3 id="2-re-building-todo-application-using-company-python-flask-and-react-boilerplate--standards">2. Re (building) TODO application using company Python (flask), and React boilerplate / standards</h3>
+<p>The goal of this 2 weeks exercise is for you to rebuild TODO application, but this time using company <a href="https://github.com/jalantechnologies/rflask-boilerplate">boilerplate</a>. The requirement of TODO application remains the same as above, with additional notes:</p>
+
+<ul>
+  <li>Create a new repo using this <a href="https://github.com/jalantechnologies/rflask-boilerplate">template</a></li>
+  <li>Create TODO app again, using the code structure and standards followed in above repo</li>
+  <li>Write proper automation tests</li>
+</ul>
+
+<p>Note: We expect you to finish this in 2 weeks, assuming you are putting in at least 8 hours a day, 5 days a week. Often when in college or coming out of college, we have a tendency to do things last minute. We recommend that you do not rush through or keep things for last minute or finish just for the sake of finishing. This is an opportunity for you to build YOUR skills. If you do not give 100%, we have seen over and over that such engineers do not end up performing well.</p>
+
+<h2 id="best-practices">Best Practices</h2>
+
+<h3 id="things-to-watch-out-for-during-development">Things to watch out for during development</h3>
+
+<ul>
+  <li>Make sure to do good research before writing/copying any line of code</li>
+  <li>Neat and clean professional looking UI</li>
+  <li>All functionalities of the app are working smoothly with no bugs</li>
+  <li>Basic coding standards are followed -
+    <ul>
+      <li>Proper variable, function, class names</li>
+      <li>Follow RESTful API principles</li>
+      <li>Create classes &amp; objects and define DB schema in a structured format</li>
+      <li>Components are used in React</li>
+      <li>Well formatted code</li>
+      <li>No console.log / console.error / console.warn in code</li>
+      <li>No very long comments inside the code. Maximum 2-3 lines of comments are sufficient most of the time</li>
+      <li>No commented-out code or unused code</li>
+      <li>File names should always be in lowercase. Use hyphens (-) to separate words. For example: <code class="language-plaintext highlighter-rouge">todo-controller.ts</code></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="raise-a-pr">Raise a PR</h3>
+<p>We encourage you to raise your PR daily, push your changes, once you are done for the day, a PR on Github to merge these changes against the develop branch. Please see raising <a href="/engineering/pr-etiquette">pull request etiquette</a>.</p>
+
+<h3 id="important-soft-skills-to-pay-attention-to">Important soft skills to pay attention to</h3>
+<ol>
+  <li>Avoiding repetition of mistakes: While mistakes are a natural part of the learning process, we value individuals who can take feedback, learn from their mistakes and apply that knowledge to prevent repetition.</li>
+  <li>Learning aptitude: We look for individuals who have the ability to learn new concepts and technologies in-depth, and apply their knowledge to create high-quality solutions. Strong fundamentals are a plus.</li>
+  <li>Problem-solving: We value team members who can find solutions to their problems independently, particularly with regard to out-of-the-box technologies.</li>
+  <li>Code quality: As an engineering company, we prioritize craftsmanship in code writing and look for individuals who have a strong understanding of object-oriented programming principles.</li>
+  <li>Communication: Effective communication is essential in the workplace. We place a high value on team members who can clearly and concisely convey their thoughts and ideas.</li>
+  <li>Commitment: We look for individuals who can be relied upon to deliver on their commitments and support the team and customers alike.</li>
+</ol>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

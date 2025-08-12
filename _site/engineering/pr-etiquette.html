@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Etiquette while raise a PR for authors | handbook</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Etiquette while raise a PR for authors" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="How we operate as a company" />
+<meta property="og:description" content="How we operate as a company" />
+<link rel="canonical" href="http://localhost:4000/engineering/pr-etiquette.html" />
+<meta property="og:url" content="http://localhost:4000/engineering/pr-etiquette.html" />
+<meta property="og:site_name" content="handbook" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Etiquette while raise a PR for authors" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"How we operate as a company","headline":"Etiquette while raise a PR for authors","url":"http://localhost:4000/engineering/pr-etiquette.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=5291901fd59f39575987dd87b4e8f327ab0885de">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/">handbook</a></h1>
+      
+
+      <h1 id="etiquette-while-raise-a-pr-for-authors">Etiquette while raise a PR for authors</h1>
+
+<p>TLDR: Don’t be lazy.</p>
+
+<ul>
+  <li><strong>Small</strong>: Ensure that your PR does not have lot of changes. Do you think a reviewer can do a good job reviewing if they have to review - say 50 files at a time?</li>
+  <li><strong>One Logical Unit</strong>: Ensure that your PR has changes related to one task or bug. One PR should not have multiple fixes in it. Also make sure that by merging that PR, a value can be delivered end to end to related use case.</li>
+  <li><strong>Branch</strong>: Your branch name should be small, concise. A good branch name consists author of the change (so team members know who is working on it), the type of change that is being proposed (feature, bug, etc) and small description for the change (usually the shortest description of the ticket you working on or the ticket number itself). Examples - <code class="language-plaintext highlighter-rouge">ankit/fix/username-label-issue</code>, <code class="language-plaintext highlighter-rouge">ankit/feat/platform-3244-fix-test</code>.</li>
+  <li><strong>Good title</strong>: Please use a title that explains what the change is about in few words. If you are working on a feature to allow user to login by email, a good title would be <code class="language-plaintext highlighter-rouge">Allow user to login by email</code></li>
+  <li>
+    <p><strong>Good description</strong>: Each PR is like adding a new page to a constitution. Please add description in PR template to describe what and why behind the change. You should be very liberal and document things such as following. <a href="https://github.com/jalantechnologies/boilerplate-mern/blob/main/.github/pull_request_template.md">This</a> is a good PR template that we generally use which breaks down your description into:</p>
+
+    <ul>
+      <li>Why is this change needed? If this is fixing a bug, what’s the root cause of this bug</li>
+      <li>API changes</li>
+      <li>Database changes</li>
+      <li>UI screenshots, if applicable</li>
+      <li>Document manual and automated tests</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Good commit message</strong>:</p>
+
+    <ul>
+      <li><strong>Use the imperative mood</strong>: A properly formed Git commit message should always be able to complete the sentence “If applied, this commit will <your subject="" line="" here="">".</your></li>
+      <li><strong>Limit the subject line to 50 characters</strong>: This is a convention and helps keep commit messages concise.</li>
+      <li><strong>Separate subject from body with a blank line</strong>: The subject line should be followed by a blank line, then a more detailed explanation if necessary.</li>
+      <li><strong>Capitalize the subject line</strong>: The subject line should start with a capital letter.</li>
+      <li><strong>Do not end the subject line with a period</strong>: The subject line should be concise and to the point.</li>
+      <li><strong>Use the body to explain what and why vs. how</strong>: The body of the commit message should provide context about what the change is and why it was made, rather than how it was made.</li>
+    </ul>
+
+    <p><strong>Examples of Commit Messages:</strong></p>
+
+    <ul>
+      <li>
+        <p>Chore</p>
+
+        <ul>
+          <li><code class="language-plaintext highlighter-rouge">chore: update dependencies</code></li>
+          <li><code class="language-plaintext highlighter-rouge">chore: clean up codebase</code></li>
+        </ul>
+      </li>
+      <li>
+        <p>Fix</p>
+
+        <ul>
+          <li><code class="language-plaintext highlighter-rouge">fix: correct typo in README</code></li>
+          <li><code class="language-plaintext highlighter-rouge">fix: resolve issue with user login</code></li>
+        </ul>
+      </li>
+      <li>
+        <p>Refactor</p>
+
+        <ul>
+          <li><code class="language-plaintext highlighter-rouge">refactor: restructure project directories</code></li>
+          <li><code class="language-plaintext highlighter-rouge">refactor: improve performance of data processing</code></li>
+        </ul>
+      </li>
+      <li>
+        <p>Feat</p>
+        <ul>
+          <li><code class="language-plaintext highlighter-rouge">feat: implement new dashboard UI</code></li>
+          <li><code class="language-plaintext highlighter-rouge">feat: add user authentication</code></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set meta info</strong>: Set reviewers, assignee (usually to self) as well as label (task, bug, documentation etc)</li>
+  <li><strong>Lint / Analyze / Test</strong>: Ensure that your PR meets coding standard of your code base (linting), has no bad code (static analyzer) and does not break any automated tests (test). Often these are covered by your CI pipeline, in case that is setup.</li>
+  <li><strong>Self Review</strong>: This is a big one. Please review your PR by self first before asking for a review. This often catches 90% of nits and makes it easier for reviewer to focus on things that matters. These points are also applicable while reviewing fellow developers’ PRs.
+    <ul>
+      <li><strong>Check Description Message</strong>: Verify that the description aligns with the defined process mentioned in <a href="/engineering/pr-etiquette">This</a> document above and is comprehensive.</li>
+      <li><strong>Check Commit Messages</strong>: Ensure commit messages are clear, meaningful, and follow the established format mentioned in <a href="/engineering/pr-etiquette">This</a> document above.</li>
+      <li><strong>Preview Demo Evidence</strong>: Include demo videos or screenshots from the preview environment to validate visual or functional changes.</li>
+      <li><strong>No Defaults</strong>: Avoid using default values unless absolutely necessary. Provide context or documentation for defaults used.</li>
+      <li><strong>Avoid Magic Numbers</strong>: Replace magic numbers with named constants or configurations.</li>
+      <li><strong>No Cross-Module Imports</strong>: Avoid importing code from other modules to ensure modularity. Only Service and Types should be imported from one module into another.</li>
+      <li><strong>Code Readability</strong>: Ensure code is clean, readable, and adheres to coding standards. Avoid unnecessarily complex code. Strive for simplicity and clarity.</li>
+      <li><strong>Avoid Clever Code</strong>: Focus on code that is straightforward and easy for others to understand.</li>
+    </ul>
+  </li>
+  <li><strong>PR Review by Reviewer</strong>: Allow reviewer a time of 24 hours to review your PR and follow up should be after a particular time period (If your further work is dependent upon this PR, then you can mention the same to reviewer).</li>
+</ul>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
