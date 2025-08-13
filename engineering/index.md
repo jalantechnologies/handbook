@@ -22,7 +22,7 @@ Understanding the user base in this scenario can lead to better product developm
 - [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
 - [How to write better code comments](https://dev.to/adammc331/todo-write-a-better-comment-4c8c)
 - [How to name your automated tests](https://markus.oberlehner.net/blog/naming-your-unit-tests-it-should-vs-given-when-then/)
-- [How to write better git commit messages](https://cbea.ms/git-commit/#seven-rules)
+- [How to write better git commit messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 - [How to keep your code healthy](https://medium.com/@learnstuff.io/broken-window-theory-in-software-development-bef627a1ce99)
 - [Three Git Configurations that Should Be the Default](https://spin.atomicobject.com/git-configurations-default)
 
