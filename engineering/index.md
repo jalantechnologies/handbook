@@ -2,7 +2,7 @@
 ## Getting started
 ### Setup
 
-#### Git
+#### Git Handle
 Since our source code is stored on Github, you need a Github handle to contribute. There are two options:
 
 1. Use personal Github handle (**recommended**): Add your Better work email as [secondary email to your Github](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/adding-an-email-address-to-your-github-account) handle.
@@ -16,6 +16,7 @@ This way, you build your personal Github profile while doing commit on behalf of
 
 2. Create a separate Better specific Github handle.
 
+#### Git Config
 We also recommend you to update your Git config locally as follows, see why [here](https://spin.atomicobject.com/git-configurations-default):
 
 ```
@@ -49,7 +50,7 @@ We maintain [flask-react-template](github.com/jalantechnologies/flask-react-temp
 - [How we think about building backend](https://www.loom.com/share/e51d50cd8bec4851a2a8718bdc6e34d5)
 
 ###  Raising PRs
-We encourage you to raise your PR daily, push your changes, once you are done for the day, a PR on Github to merge these changes against the develop branch. In general, we recommend you to make sure you follow below guidelines:
+We encourage you to raise your PR daily, push your changes, once you are done for the day, a PR on Github to merge these changes against the master/main branch. In general, we recommend you to make sure you follow below guidelines:
 
 - [Things to watch out for when raising PRs](/engineering/pr-etiquette)
 - [How to write better code comments](https://dev.to/adammc331/todo-write-a-better-comment-4c8c)
