@@ -4,6 +4,9 @@ layout: default
 
 # Etiquette while raise a PR for authors
 
+**Video Link**: [How to raise a good PR](https://www.loom.com/share/9b2e0d7e88c94835a816bd17f1cdec8c?sid=60452258-fea7-47e5-b425-6a2134b21039)
+
+
 TLDR: Don't be lazy.
 
 - **Small**: Ensure that your PR does not have lot of changes. Do you think a reviewer can do a good job reviewing if they have to review - say 50 files at a time?
