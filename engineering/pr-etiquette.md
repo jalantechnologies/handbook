@@ -39,6 +39,10 @@ layout: default
 - **Screenshots** - Visual proof reduces back-and-forth questions
 - **Testing** - Shows you've verified the change works
 
+**Meta Information:** Set proper PR metadata for tracking and organization
+- **Assignee:** Assign to yourself - You own this change
+- **Labels:** Use appropriate labels (feature, bug, documentation, etc.) - Helps with filtering and metrics
+
 > **⚠️ Incomplete descriptions = rejected PRs** - Poor documentation leads to production issues
 
 ## 4. Before Requesting Review
