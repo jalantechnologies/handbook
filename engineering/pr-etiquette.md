@@ -50,7 +50,7 @@ layout: default
 > **MANDATORY self-review checklist - Catches 90% of issues before wasting reviewer time:**
 
 - [ ] **Line-by-line code review** - Pretend you're reviewing someone else's code
-- [ ] **Test your changes** - Broken code in review wastes everyone's time
+- [ ] **Test your changes** - Verify your work AND ensure it doesn't break existing related functionality. Broken code in review wastes everyone's time
 - [ ] **Complete PR template** - Missing context leads to poor review quality
 - [ ] **Record Loom video** - Explains business impact and saves review meeting time
 - [ ] **Add automated tests** (backend PRs) - Prevents regressions and builds confidence
