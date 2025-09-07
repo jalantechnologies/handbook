@@ -2,61 +2,65 @@
 layout: default
 ---
 
-# Etiquette while raise a PR for authors
+# Pull Request Guidelines
 
-TLDR: Don't be lazy.
+## Core Principles
 
-- **Small**: Ensure that your PR does not have lot of changes. Do you think a reviewer can do a good job reviewing if they have to review - say 50 files at a time?
-- **One Logical Unit**: Ensure that your PR has changes related to one task or bug. One PR should not have multiple fixes in it. Also make sure that by merging that PR, a value can be delivered end to end to related use case.
-- **Branch**: Your branch name should be small, concise. A good branch name consists author of the change (so team members know who is working on it), the type of change that is being proposed (feature, bug, etc) and small description for the change (usually the shortest description of the ticket you working on or the ticket number itself). Examples - `ankit/fix/username-label-issue`, `ankit/feat/platform-3244-fix-test`.
-- **Good title**: Please use a title that explains what the change is about in few words. If you are working on a feature to allow user to login by email, a good title would be `Allow user to login by email`
-- **Good description**: Each PR is like adding a new page to a constitution. Please add description in PR template to describe what and why behind the change. You should be very liberal and document things such as following. [This](https://github.com/jalantechnologies/boilerplate-mern/blob/main/.github/pull_request_template.md) is a good PR template that we generally use which breaks down your description into:
+- **Code Quality Obsessed** - Every line matters for production stability
+- **Clean Code** - Readable code reduces bugs and maintenance costs
+- **Type Safety** - Catch errors at compile time, not in production
+- **Broken Window Policy** - Fix small issues before they become big problems
 
-  - Why is this change needed? If this is fixing a bug, what's the root cause of this bug
-  - API changes
-  - Database changes
-  - UI screenshots, if applicable
-  - Document manual and automated tests
+## 1. Before You Code
 
-- **Good commit message**:
+- **Keep it small** - Large PRs are harder to review, more likely to have bugs, and slower to merge. One logical change only.
+- **Create proper branch** - `author/type/description` helps teammates know who's working on what (e.g., `john/fix/login-bug`)
 
-  - **Use the imperative mood**: A properly formed Git commit message should always be able to complete the sentence "If applied, this commit will <your subject line here>".
-  - **Limit the subject line to 50 characters**: This is a convention and helps keep commit messages concise.
-  - **Separate subject from body with a blank line**: The subject line should be followed by a blank line, then a more detailed explanation if necessary.
-  - **Capitalize the subject line**: The subject line should start with a capital letter.
-  - **Do not end the subject line with a period**: The subject line should be concise and to the point.
-  - **Use the body to explain what and why vs. how**: The body of the commit message should provide context about what the change is and why it was made, rather than how it was made.
+## 2. Writing Commits
 
-  **Examples of Commit Messages:**
+`type: description` (max 50 chars) - Clear history helps with debugging and rollbacks
+- **feat:** `feat: add email auth` - New features
+- **fix:** `fix: resolve timeout` - Bug fixes  
+- **chore:** `chore: update dependencies` - Maintenance tasks
+- **refactor:** `refactor: improve API performance` - Code improvements
+- **docs:** `docs: update API guide` - Documentation changes
+- **test:** `test: add login automated tests` - Adding automated tests
+- Use imperative mood: "Add" not "Added"
 
-  - Chore
+## 3. Creating Your PR
 
-    - `chore: update dependencies`
-    - `chore: clean up codebase`
+**Title:** Clear, specific description tells reviewers exactly what changed
+- Good: "Add email login functionality" 
+- Bad: "Update login stuff"
 
-  - Fix
+**Description:** Complete the entire [PR template](https://github.com/jalantechnologies/boilerplate-mern/blob/main/.github/pull_request_template.md) - this is your documentation for future developers
+- **Why** this change is needed - Context prevents future bugs and confusion
+- **API/Database changes** - Critical for deployment planning (even if "None")
+- **Screenshots** - Visual proof reduces back-and-forth questions
+- **Testing** - Shows you've verified the change works
 
-    - `fix: correct typo in README`
-    - `fix: resolve issue with user login`
+**Meta Information:** Set proper PR metadata for tracking and organization
+- **Assignee:** Assign to yourself - You own this change
+- **Labels:** Use appropriate labels (feature, bug, documentation, etc.) - Helps with filtering and metrics
 
-  - Refactor
+> **⚠️ Incomplete descriptions = rejected PRs** - Poor documentation leads to production issues
 
-    - `refactor: restructure project directories`
-    - `refactor: improve performance of data processing`
+## 4. Before Requesting Review
 
-  - Feat
-    - `feat: implement new dashboard UI`
-    - `feat: add user authentication`
+> **MANDATORY self-review checklist - Catches 90% of issues before wasting reviewer time:**
 
-- **Set meta info**: Set reviewers, assignee (usually to self) as well as label (task, bug, documentation etc)
-- **Lint / Analyze / Test**: Ensure that your PR meets coding standard of your code base (linting), has no bad code (static analyzer) and does not break any automated tests (test). Often these are covered by your CI pipeline, in case that is setup.
-- **Self Review**: This is a big one. Please review your PR by self first before asking for a review. This often catches 90% of nits and makes it easier for reviewer to focus on things that matters. These points are also applicable while reviewing fellow developers' PRs.
-  - **Check Description Message**: Verify that the description aligns with the defined process mentioned in [This](/engineering/pr-etiquette) document above and is comprehensive.
-  - **Check Commit Messages**: Ensure commit messages are clear, meaningful, and follow the established format mentioned in [This](/engineering/pr-etiquette) document above.
-  - **Preview Demo Evidence**: Include demo videos or screenshots from the preview environment to validate visual or functional changes.
-  - **No Defaults**: Avoid using default values unless absolutely necessary. Provide context or documentation for defaults used.
-  - **Avoid Magic Numbers**: Replace magic numbers with named constants or configurations.
-  - **No Cross-Module Imports**: Avoid importing code from other modules to ensure modularity. Only Service and Types should be imported from one module into another.
-  - **Code Readability**: Ensure code is clean, readable, and adheres to coding standards. Avoid unnecessarily complex code. Strive for simplicity and clarity.
-  - **Avoid Clever Code**: Focus on code that is straightforward and easy for others to understand.
-- **PR Review by Reviewer**: Allow reviewer a time of 24 hours to review your PR and follow up should be after a particular time period (If your further work is dependent upon this PR, then you can mention the same to reviewer).
+- [ ] **Line-by-line code review** - Pretend you're reviewing someone else's code
+- [ ] **Test your changes** - Verify your work AND ensure it doesn't break existing related functionality. Broken code in review wastes everyone's time
+- [ ] **Complete PR template** - Missing context leads to poor review quality
+- [ ] **Record Loom video** - Explains business impact and saves review meeting time
+- [ ] **Add automated tests** (backend PRs) - Prevents regressions and builds confidence
+- [ ] **Clean up** - Debug code, console.log, and comments make code unprofessional
+- [ ] **All previous feedback addressed** - Ignoring feedback damages team relationships
+
+## 5. Timeline
+
+Give reviewers 24 hours - Quality review takes time. Follow up if blocking other work.
+
+---
+
+*Remember: PRs are permanent documentation. Write them for the developer who will debug this code at 2 AM in 6 months.*
