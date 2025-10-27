@@ -15,6 +15,7 @@ At the end of the day, reply to the same thread with what you completed. This ke
 
 Daily updates are part of our work culture. If you don’t post them, we usually assume you're not working.
 
+
 #### Examples
 
 **Good PPP Example:**
@@ -37,7 +38,7 @@ Plan:
 - Check emails.
 
 Problems:
-- Waiting on ABC's update.
+- Waiting for teammate's update.
 
 _Progress:_
 - Finished reading PPPs.
