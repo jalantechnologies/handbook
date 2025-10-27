@@ -8,12 +8,45 @@ Set your working hours (and keep it up to date) in your status message on MS tea
 ### Daily Status Update
 Start your day by sharing a status update on your primary project workspace with:
 
-- Plan – What you'll work on
-- Problems – Any blockers
+- Plan – What you'll work on today and your intended outcomes or deliverables.
+- Problems – Any blockers or issues preventing progress.
 
-At the end of the day, reply to the same thread with what you completed. This keeps everyone aligned and shows follow-through. Please make sure to include as much detail as possible, hyperlink artifacts being referred in the message so its easy to follow your progress without talking to you.
+At the end of the day, reply to the same thread with what you completed. This keeps everyone aligned and shows follow-through. Your updates should be outcome-oriented and reference PRs, issues, or project artifacts with hyperlinks as appropriate, making it easy for others to follow your work without extra conversation.
 
 Daily updates are part of our work culture. If you don’t post them, we usually assume you're not working.
+
+#### Examples
+
+**Good PPP Example:**
+
+Plan:
+- Add unit tests for AWS ECR cleanup logic ([PR #234](#)), ensuring edge cases are handled.
+- Deploy cleanup code to staging and verify artifact removal ([Issue #88](#)).
+
+Problems:
+- Awaiting review on infra access request (ticket #567).
+
+_Progress (EOD reply):_
+- All tests passed and cleanup logic merged ([PR #234](#)).
+- Verified artifact deletion in staging; no issues found.
+
+**Bad PPP Example:**
+
+Plan:
+- Read PPPs.
+- Check emails.
+
+Problems:
+- Waiting on ABC's update.
+
+_Progress:_
+- Finished reading PPPs.
+- No further updates.
+
+***
+
+**Key Point:**  
+Always focus on clear, outcome-driven plans and actual deliverables in both your morning and EOD updates. Avoid listing process steps or admin/checklist activities on their own.
 
 ## Common Work Channels:
 Other than your primary project workspace, these are common channels that you should know:
