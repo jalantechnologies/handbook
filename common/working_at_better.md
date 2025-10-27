@@ -11,7 +11,7 @@ Start your day by sharing a status update on your primary project workspace with
 - Plan – What you'll work on today and your intended outcomes or deliverables.
 - Problems – Any blockers or issues preventing progress.
 
-At the end of the day, reply to the same thread with what you completed. This keeps everyone aligned and shows follow-through. Your updates should be outcome-oriented and reference PRs, issues, or project artifacts with hyperlinks as appropriate, making it easy for others to follow your work without extra conversation.
+At the end of the day, reply to the same thread with what you completed. This keeps everyone aligned and shows follow-through. Your updates should be outcome-oriented and as much details as possible, such as reference PRs, issues, or project artifacts with hyperlinks, making it easy for others to follow your work without extra conversation.
 
 Daily updates are part of our work culture. If you don’t post them, we usually assume you're not working.
 
