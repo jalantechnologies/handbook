@@ -29,9 +29,9 @@ The goal of this document is to ensure that by the start of every project, you c
 
 #### Day 3: Sprint Meetings Initiation
 
-- Attend the daily stand-up meeting to observe and understand the dynamics of the team.
+- Attend the daily stand-up meeting to observe, understand the dynamics of the team and learn about the daily progress.
 - Introduction to sprint planning meetings and an overview of the agile development process.
-- Participate in a retrospective meeting to understand how the team reflects on the past sprint and improvement plans.
+- Participate/ observe a retrospective meeting after every sprint to understand how the team reflects on the past sprint and improvement plans.
 
 #### Day 4: PRD Review and Hands-On Product Exploration 
 
