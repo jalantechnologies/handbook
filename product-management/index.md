@@ -1,15 +1,27 @@
 ## Product Management:
 
+### Goal of This Document
+
+The purpose of this document is to ensure that before starting any new project, you have complete clarity on the processes, expectations, and communication flow required to execute effectively.
+
+By the start of every project, you should be able to confidently answer the following:
+
+1. Do I have a clear understanding of how to initiate a new project- including all prerequisites, documentation, and approvals needed before kickoff?
+2. Do I fully understand how the feature development, review, and release cycles are structured and managed?
+3. Do I know which communication channels are to be used for specific types of discussions, updates, and escalations?
+4. Am I aligned on the product vision, target users, and key business metrics that define success for this project?
+5. Have I identified and connected with all relevant stakeholders, and do I understand their roles, responsibilities, and expectations from the product team?
+
 ### Overview
 
-We think the product manager's role is that of a driver on a bus full of passengers. They have to take everyone with them and lead the bus to the right destination while creating a delightful experience throughout the journey.
+We believe a Product Manager’s role is much like a driver steering a bus full of passengers, leading everyone toward the right destination while ensuring a smooth and engaging journey along the way.
 
-At Better, a product manager:
+At Better, a Product Manager:
 
 1. Works with customer to understand their problems and evangelize solution
-2. Works with a product designer to create a delightful experience for the solution
-3. Works with engineering to bring the solution to life
-4. Repeat steps 1-3 based on data and intuition
+2. Collaborates with designers to craft delightful user experiences.
+3. Partners with engineers to bring those solutions to life.
+4. Continuously iterates on all of the above, guided by data, feedback, and intuition.
 
 It is one of the **hardest jobs** because even though you don't have official authority on engineering, design or customer, you need to inspire them in such a way that they respect you and see you as a leader. This is a title not given but earned.
 
@@ -37,7 +49,8 @@ Once the solution and KPIs are agreed upon, update the PRD document.
 
 **Goal: Work with engineering to plan and execute.**
 
-Once the problem, solution, and KPIs are documented, you should share the document with the tech lead and/or engineers and ask him/her to design the solution and help break down the work into small technical tasks with rough estimates. You should create [JIRA](https://www.atlassian.com/software/jira) tickets based on those work items. For planning purposes, we use agile methodology. Our sprints are 2 weeks long and we recommend product manager conduct the following scrum ceremonies:
+Once the problem, solution, and KPIs are documented, you should share the document with the tech lead and/or engineers and ask him/her to design the solution and help break down the work into small technical tasks with rough estimates. You should create [JIRA](https://www.atlassian.com/software/jira) tickets based on those work items. For planning purposes, we use agile methodology. 
+We follow an Agile process with **2-week sprints**, and PMs are expected to lead or participate in the following ceremonies:
 
 -   **Sprint planning (Duration: 60 minutes, When: 2 days before the sprint starts)**: In the sprint planning, you present the work items to the Tech Lead that you would like the engineering team to achieve. This is an opportunity for the Tech Lead to ask questions and for you to get his buyoff on the plan.
 
@@ -71,6 +84,32 @@ PM should validate the behaviour against PRD and if it is indeed a bug, s/he sho
 -   Work with the lead to get the product fixed
 
 -   Once the changes are deployed to production, verify it once and notify the person who reported the bug.
+
+#### 5. Understanding Communications
+
+**Goal: Ensure smooth, transparent, and structured collaboration through the project’s MS Teams setup.**
+
+Each project team at Better has a dedicated MS Teams workspace organized into channels with clear purposes and best practices.
+
+*Channel Overview*
+
+1. General Channel: Central hub for team-wide communication and stakeholder interactions
+    1.1 Use Cases: Daily PPPs, product discussions, leave updates and access important documents
+
+2. Engineering Channel: Space for all technical discussions and knowledge sharing.
+	2.1 Use Cases: Code reviews, architecture debates, sharing documentation.
+
+3. PR Review Channel: Streamline and centralize the pull request/ feature review process for product and engineering.
+	3.1 Use Cases: Submit PRs for review.
+
+4. QA Channel: Track QA notes, bug reports, and testing outcomes.
+	4.1 Use Cases: Share bug reports with JIRA links and discuss fixes and QA verification steps
+
+5. Sprint Planning & Exit Channel: Manage sprint ceremonies, outcomes, and documentation.
+	5.1 Use Cases: Share sprint goals, demos, and retrospectives
+
+6. Alert Channel: Monitor production issues through automated alerts.
+	6.1 Use Cases: Receive alerts from monitoring tools
 
 ## Important Links:
 
