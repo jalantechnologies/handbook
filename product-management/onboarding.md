@@ -39,7 +39,7 @@ layout: default
 
 At the end of the first week of onboarding, you should be ready to lead the sprint meetings, outlining goals, priorities, and expectations for the upcoming sprint.
 
-#### Walkthrough Videos
+#### Walkthrough Video
 
 For walkthroughs, watch these videos:  
 [Project setup guide for PMs](https://www.loom.com/share/a6da5fe2bb2e4be49110baaaf99ac69c)  
