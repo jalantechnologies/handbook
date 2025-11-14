@@ -89,7 +89,7 @@ PM should validate the behaviour against PRD and if it is indeed a bug, s/he sho
 
 **Goal: Ensure smooth, transparent, and structured collaboration throughout the project.**
 
-Each project team at Better has a dedicated MS Teams workspace organized into channels with clear purposes and best practices. Please click [here](add link----) to read more. 
+Each project team at Better has a dedicated MS Teams workspace organized into channels with clear purposes and best practices. Please click [here]([here](https://teams.microsoft.com/l/channel/19%3AnrFEZnY-fD1cT-cW2jIBwN2CsqsMSJjEa0laGwqWIz01%40thread.tacv2/tab%3A%3A72fc109c-5b38-499a-b9ff-53e6558901a4?context=%7B%22channelId%22%3A%2219%3AnrFEZnY-fD1cT-cW2jIBwN2CsqsMSJjEa0laGwqWIz01%40thread.tacv2%22%7D&tenantId=79836b2a-53cc-4854-81b4-ba2d7c9f2726)) to read more. 
 
 *Tools Overview*
 
