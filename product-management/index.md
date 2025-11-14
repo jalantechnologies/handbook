@@ -96,6 +96,7 @@ Each project team at Better has a dedicated MS Teams workspace organized into ch
 1. Jira: JIRA: For task and ticket tracking
 2. Confluence: For all product and project documentation
 3. MS Teams/ Slack: For internal communication with the team and stakeholders
+4. GitHub: To approve feature release
 
 ## Important Links:
 
