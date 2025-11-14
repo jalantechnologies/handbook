@@ -85,20 +85,13 @@ PM should validate the behaviour against PRD and if it is indeed a bug, s/he sho
 
 -   Once the changes are deployed to production, verify it once and notify the person who reported the bug.
 
-#### 5. Collaboration Tools
+### Collaboration Tools
 
 **Goal: Ensure smooth, transparent, and structured collaboration throughout the project.**
 
-Each project team at Better has a dedicated MS Teams workspace organized into channels with clear purposes and best practices. Please click [here](https://teams.microsoft.com/l/channel/19%3AnrFEZnY-fD1cT-cW2jIBwN2CsqsMSJjEa0laGwqWIz01%40thread.tacv2/tab%3A%3A72fc109c-5b38-499a-b9ff-53e6558901a4?context=%7B%22channelId%22%3A%2219%3AnrFEZnY-fD1cT-cW2jIBwN2CsqsMSJjEa0laGwqWIz01%40thread.tacv2%22%7D&tenantId=79836b2a-53cc-4854-81b4-ba2d7c9f2726) to read more. 
+At Better, we use several tools to support project execution and team communication:
 
-*Tools Overview*
+1. **[JIRA](/product-management/jira)**: For task and ticket tracking
+3. **[MS Teams](/product-management/ms-teams)**: For internal communication with the team and stakeholders
 
-1. Jira: JIRA: For task and ticket tracking
-2. Confluence: For all product and project documentation
-3. MS Teams/ Slack: For internal communication with the team and stakeholders
-4. GitHub: To approve feature release
-
-## Important Links:
-
-#### 1. [PM Onboarding](/product-management/onboarding)
-#### 2. [PRD Template](/product-management/PRD%20Template)
+Each tool plays a specific role in maintaining transparency and structure across your projects. Click the links above to learn more about how to use each tool effectively.
