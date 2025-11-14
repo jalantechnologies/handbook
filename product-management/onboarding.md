@@ -49,4 +49,4 @@ At the end of the first week of onboarding, you should be ready to lead the spri
 
 #### Walkthrough Video
  
-[Project setup guide for PMs](https://www.loom.com/share/a6da5fe2bb2e4be49110baaaf99ac69c)  
+[Project setup guide for PMs](https://www.loom.com/edit/e7e977685c7a4887942defd3b6a52ffc)
