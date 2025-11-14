@@ -85,31 +85,17 @@ PM should validate the behaviour against PRD and if it is indeed a bug, s/he sho
 
 -   Once the changes are deployed to production, verify it once and notify the person who reported the bug.
 
-#### 5. Understanding Communications
+#### 5. Collaboration Tools
 
-**Goal: Ensure smooth, transparent, and structured collaboration through the project’s MS Teams setup.**
+**Goal: Ensure smooth, transparent, and structured collaboration throughout the project.**
 
-Each project team at Better has a dedicated MS Teams workspace organized into channels with clear purposes and best practices.
+Each project team at Better has a dedicated MS Teams workspace organized into channels with clear purposes and best practices. Please click [here](add link----) to read more. 
 
-*Channel Overview*
+*Tools Overview*
 
-1. General Channel: Central hub for team-wide communication and stakeholder interactions
-    1.1 Use Cases: Daily PPPs, product discussions, leave updates and access important documents
-
-2. Engineering Channel: Space for all technical discussions and knowledge sharing.
-	2.1 Use Cases: Code reviews, architecture debates, sharing documentation.
-
-3. PR Review Channel: Streamline and centralize the pull request/ feature review process for product and engineering.
-	3.1 Use Cases: Submit PRs for review.
-
-4. QA Channel: Track QA notes, bug reports, and testing outcomes.
-	4.1 Use Cases: Share bug reports with JIRA links and discuss fixes and QA verification steps
-
-5. Sprint Planning & Exit Channel: Manage sprint ceremonies, outcomes, and documentation.
-	5.1 Use Cases: Share sprint goals, demos, and retrospectives
-
-6. Alert Channel: Monitor production issues through automated alerts.
-	6.1 Use Cases: Receive alerts from monitoring tools
+1. Jira: JIRA: For task and ticket tracking
+2. Confluence: For all product and project documentation
+3. MS Teams/ Slack: For internal communication with the team and stakeholders
 
 ## Important Links:
 
