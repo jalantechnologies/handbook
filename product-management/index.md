@@ -58,7 +58,7 @@ We follow an Agile process with **2-week sprints**, and PMs are expected to lead
 
 - **Feature acceptance (Duration: Ongoing, When: During the sprint)**: During the sprint, you should verify all the PRs and provide "PM Acceptance" for the engineering team to merge and deploy the feature on production. All the reviews and feedback should be submitted within PR on GitHub. 
 
--   **Sprint Exit (Duration: 60 minutes, When: Last day of sprint)**: In the morning of the last day of the sprint, send the engineering team a reminder to ensure that they focus on internal feedback and preparing for the demo on the staging environment. You should also prepare the ["Sprint Review"](https://jalantechnology.sharepoint.com/:p:/s/JTC/Ea0gpWXBwy1LixBUfPo2qNYBrAaK3Ju07bgEkjCbQhZVag?e=1R2YK8) slides summarizing the sprint output.
+-   **Sprint Exit (Duration: 60 minutes, When: Last day of sprint)**: In the morning of the last day of the sprint, send the engineering team a reminder to ensure that they focus on internal feedback and preparing for the demo on the staging environment. You should also prepare a Sprint Review in Confluence tabels summarizing the sprint output.
 
 -   **Sprint Retro (Duration: 30 minutes, When: 2 days after sprint exit)**: The goal of this meeting (should plan within 2-3 days of sprint exit) is to reflect on what went well and areas to improve for the sprint with clear action items.
 
