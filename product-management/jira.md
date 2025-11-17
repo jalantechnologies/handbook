@@ -105,8 +105,13 @@ Title: Feature: User Authentication via Google SSO
    - User profile is automatically populated from Google account
    - Error handling for failed OAuth is implemented
    - Feature works on desktop and mobile browsers
-```
 
+4. PRD Link:
+   - So that the engineer working has better perspective of scope of work
+
+5. Figma Link:
+   - Attach figma file if the ticekt requires a design change
+```
 #### Bug Ticket Format
 
 **Title:** `Bug: Description of bug`
@@ -116,24 +121,33 @@ Title: Feature: User Authentication via Google SSO
 1. **Description of bug** - What is broken?
 2. **Steps to reproduce** - How can we reproduce the issue?
 3. **Expected behaviour** - What should happen?
+4. **Actual behaviour** - What is currently happening?
+5. **PRD Link** - Link to the PRD to ensure acceptance criteria alignment
+6. **Additional context** - Environment, browser/device affected, screenshots, or logs
+
+**Note:** If the bug reveals missing requirements not covered in the initial PRD acceptance criteria, file an enhancement ticket instead and update the PRD accordingly, sharing the link in both tickets for traceability.
 
 **Example:**
 
 ```
-Title: Bug: Login page crashes on mobile
+Title: Bug: User profile data not saving on form submission
 
 1. Description of bug:
-   The login page crashes when users submit the login form on iOS devices.
+    User profile updates are lost when submitting the edit profile form, though success message appears.
 
 2. Steps to reproduce:
-   Step 1: Open the app on an iOS device
-   Step 2: Navigate to the login page
-   Step 3: Enter email and password
-   Step 4: Tap the "Login" button
-   Step 5: Page crashes with error message
+    Step 1: Log in to user account
+    Step 2: Navigate to Settings > Profile
+    Step 3: Update name field to "John Doe"
+    Step 4: Click "Save Changes" button
+    Step 5: Refresh page or navigate away
 
 3. Expected behaviour:
-   User should be logged in and redirected to the dashboard without any errors.
+    Updated name should persist in the database and display on page refresh.
+
+4. Actual behaviour:
+    Name reverts to original value after refresh; database record unchanged.
+```
 ```
 
 **Guidelines:**

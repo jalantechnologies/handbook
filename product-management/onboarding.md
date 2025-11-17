@@ -46,7 +46,3 @@ The goal of this document is to ensure that by the start of every project, you c
 - Work closely with the Product team to refine user stories, clarify requirements, and align on sprint goals.
 
 At the end of the first week of onboarding, you should be ready to lead the sprint meetings, outlining goals, priorities, and expectations for the upcoming sprint.
-
-#### Walkthrough Video
- 
-[Project setup guide for PMs](https://www.loom.com/edit/e7e977685c7a4887942defd3b6a52ffc)
