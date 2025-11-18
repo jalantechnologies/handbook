@@ -62,6 +62,8 @@ We follow an Agile process with **2-week sprints**, and PMs are expected to lead
 
 -   **Sprint Retro (Duration: 30 minutes, When: 2 days after sprint exit)**: The goal of this meeting (should plan within 2-3 days of sprint exit) is to reflect on what went well and areas to improve for the sprint with clear action items.
 
+-   **Monitoring Alerts & Proactive Bug Management (Duration: Ongoing, When: Daily)**: Monitor the alerts channel consistently to maintain zero alerts as the ideal state. Analyze any incoming alerts, assess their priority (P0, P1, P2), and plan remediation work if needed. Ensure proper alerts are configured and routed to the channel so the team stays informed of production/ preview issues in real-time. 
+
 #### 4. Measure, Learn & Improve
 
 **Goal: Observe feature usage, learn, and improve.**
