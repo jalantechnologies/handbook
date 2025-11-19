@@ -1,15 +1,27 @@
 ## Product Management:
 
+### Goal of This Document
+
+The purpose of this document is to ensure that before starting any new project, you have complete clarity on the processes, expectations, and communication flow required to execute effectively.
+
+By the start of every project, you should be able to confidently answer the following:
+
+1. Do I have a clear understanding of how to initiate a new project- including all prerequisites, documentation, and approvals needed before kickoff?
+2. Do I fully understand how the feature development, review, and release cycles are structured and managed?
+3. Do I know which communication channels are to be used for specific types of discussions, updates, and escalations?
+4. Am I aligned on the product vision, target users, and key business metrics that define success for this project?
+5. Have I identified and connected with all relevant stakeholders, and do I understand their roles, responsibilities, and expectations from the product team?
+
 ### Overview
 
-We think the product manager's role is that of a driver on a bus full of passengers. They have to take everyone with them and lead the bus to the right destination while creating a delightful experience throughout the journey.
+We believe a Product Manager’s role is much like a driver steering a bus full of passengers, leading everyone toward the right destination while ensuring a smooth and engaging journey along the way.
 
-At Better, a product manager:
+At Better, a Product Manager:
 
 1. Works with customer to understand their problems and evangelize solution
-2. Works with a product designer to create a delightful experience for the solution
-3. Works with engineering to bring the solution to life
-4. Repeat steps 1-3 based on data and intuition
+2. Collaborates with designers to craft delightful user experiences.
+3. Partners with engineers to bring those solutions to life.
+4. Continuously iterates on all of the above, guided by data, feedback, and intuition.
 
 It is one of the **hardest jobs** because even though you don't have official authority on engineering, design or customer, you need to inspire them in such a way that they respect you and see you as a leader. This is a title not given but earned.
 
@@ -37,7 +49,8 @@ Once the solution and KPIs are agreed upon, update the PRD document.
 
 **Goal: Work with engineering to plan and execute.**
 
-Once the problem, solution, and KPIs are documented, you should share the document with the tech lead and/or engineers and ask him/her to design the solution and help break down the work into small technical tasks with rough estimates. You should create [JIRA](https://www.atlassian.com/software/jira) tickets based on those work items. For planning purposes, we use agile methodology. Our sprints are 2 weeks long and we recommend product manager conduct the following scrum ceremonies:
+Once the problem, solution, and KPIs are documented, you should share the document with the tech lead and/or engineers and ask him/her to design the solution and help break down the work into small technical tasks with rough estimates. You should create [JIRA](https://www.atlassian.com/software/jira) tickets based on those work items. For planning purposes, we use agile methodology. 
+We follow an Agile process with **2-week sprints**, and PMs are expected to lead or participate in the following ceremonies:
 
 -   **Sprint planning (Duration: 60 minutes, When: 2 days before the sprint starts)**: In the sprint planning, you present the work items to the Tech Lead that you would like the engineering team to achieve. This is an opportunity for the Tech Lead to ask questions and for you to get his buyoff on the plan.
 
@@ -45,9 +58,11 @@ Once the problem, solution, and KPIs are documented, you should share the docume
 
 - **Feature acceptance (Duration: Ongoing, When: During the sprint)**: During the sprint, you should verify all the PRs and provide "PM Acceptance" for the engineering team to merge and deploy the feature on production. All the reviews and feedback should be submitted within PR on GitHub. 
 
--   **Sprint Exit (Duration: 60 minutes, When: Last day of sprint)**: In the morning of the last day of the sprint, send the engineering team a reminder to ensure that they focus on internal feedback and preparing for the demo on the staging environment. You should also prepare the ["Sprint Review"](https://jalantechnology.sharepoint.com/:p:/s/JTC/Ea0gpWXBwy1LixBUfPo2qNYBrAaK3Ju07bgEkjCbQhZVag?e=1R2YK8) slides summarizing the sprint output.
+-   **Sprint Exit (Duration: Async, When: Last day of sprint)**: On the last day of the sprint, share a sprint summary document in [Confluence](https://jalantechnology.sharepoint.com/:w:/r/sites/Better9/_layouts/15/doc2.aspx?sourcedoc=%7B58a4d4d5-2a33-4a1a-a9f5-245d51fc9f11%7D&action=editnew) that outlines the sprint output, completed work, and key metrics. The engineering team should review their tickets, record any necessary updates using Loom, and submit questions asynchronously. This async approach allows the team to reflect on their work at their own pace while maintaining transparency.
 
 -   **Sprint Retro (Duration: 30 minutes, When: 2 days after sprint exit)**: The goal of this meeting (should plan within 2-3 days of sprint exit) is to reflect on what went well and areas to improve for the sprint with clear action items.
+
+-   **Monitoring Alerts & Proactive Bug Management (Duration: Ongoing, When: Daily)**: Monitor the alerts channel consistently to maintain zero alerts as the ideal state. Analyze any incoming alerts, assess their priority (P0, P1, P2), and plan remediation work if needed. Ensure proper alerts are configured and routed to the channel so the team stays informed of production/ preview issues in real-time. 
 
 #### 4. Measure, Learn & Improve
 
@@ -72,7 +87,13 @@ PM should validate the behaviour against PRD and if it is indeed a bug, s/he sho
 
 -   Once the changes are deployed to production, verify it once and notify the person who reported the bug.
 
-## Important Links:
+### Collaboration Tools
 
-#### 1. [PM Onboarding](/product-management/onboarding)
-#### 2. [PRD Template](/product-management/PRD%20Template)
+**Goal: Ensure smooth, transparent, and structured collaboration throughout the project.**
+
+At Better, we use several tools to support project execution and team communication:
+
+1. **[JIRA](/product-management/jira)**: For task and ticket tracking
+3. **[MS Teams](/product-management/ms-teams)**: For internal communication with the team and stakeholders
+
+Each tool plays a specific role in maintaining transparency and structure across your projects. Click the links above to learn more about how to use each tool effectively.

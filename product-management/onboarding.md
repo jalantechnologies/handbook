@@ -4,6 +4,14 @@ layout: default
 
 ### Onboarding
 
+The goal of this document is to ensure that by the start of every project, you can confidently answer the following questions:
+
+	1. Do I know which sprint ceremonies I’m expected to lead or participate in, and what my role is in each?
+	2. Do I have a clear understanding of the daily processes and steps to follow until the project is completed?
+	3. Do I understand all the processes that have been set up for this specific project?
+	4. Have I met all the relevant stakeholders and aligned everyone on the plan of action?
+
+
 #### Understand the product and [product management processes](/product-management/index) to take charge of the scrum
 
 ##### Day 1: Introduction and Orientation
@@ -21,9 +29,9 @@ layout: default
 
 #### Day 3: Sprint Meetings Initiation
 
-- Attend the daily stand-up meeting to observe and understand the dynamics of the team.
+- Attend the daily stand-up meeting to observe, understand the dynamics of the team and learn about the daily progress.
 - Introduction to sprint planning meetings and an overview of the agile development process.
-- Participate in a retrospective meeting to understand how the team reflects on the past sprint and improvement plans.
+- Participate/ observe a retrospective meeting after every sprint to understand how the team reflects on the past sprint and improvement plans.
 
 #### Day 4: PRD Review and Hands-On Product Exploration 
 
@@ -38,3 +46,9 @@ layout: default
 - Work closely with the Product team to refine user stories, clarify requirements, and align on sprint goals.
 
 At the end of the first week of onboarding, you should be ready to lead the sprint meetings, outlining goals, priorities, and expectations for the upcoming sprint.
+
+#### Walkthrough Video
+
+[Team Setup](https://www.loom.com/share/298c63ed2d054fbab55ec7c538054681)
+[JIRA Setup](https://www.loom.com/share/cd85ac99bc7146ffb0cb853150eeae35)
+[Starting a Sprint](https://www.loom.com/share/435e21161edb443983934f3d25c3e455)
