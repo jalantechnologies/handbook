@@ -49,6 +49,4 @@ At the end of the first week of onboarding, you should be ready to lead the spri
 
 #### Walkthrough Video
 
-[Team Setup](https://www.loom.com/share/298c63ed2d054fbab55ec7c538054681)
-[JIRA Setup](https://www.loom.com/share/cd85ac99bc7146ffb0cb853150eeae35)
-[Starting a Sprint](https://www.loom.com/share/435e21161edb443983934f3d25c3e455)
+[Starting a Sprint at Better](https://www.loom.com/share/435e21161edb443983934f3d25c3e455)
