@@ -47,6 +47,4 @@ The goal of this document is to ensure that by the start of every project, you c
 
 At the end of the first week of onboarding, you should be ready to lead the sprint meetings, outlining goals, priorities, and expectations for the upcoming sprint.
 
-#### Walkthrough Video
-
-[Starting a Sprint at Better](https://www.loom.com/share/435e21161edb443983934f3d25c3e455)
+#### Walkthrough Video: [Starting a Sprint at Better](https://www.loom.com/share/435e21161edb443983934f3d25c3e455)
