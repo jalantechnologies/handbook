@@ -1,0 +1,79 @@
+
+These settings help keep your Git workflow clean and organized.
+
+---
+
+#### IDE
+
+Team members may use different editors, but VS Code is most common.  
+Please install the Prettier plugin to ensure your code is consistently formatted:  
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+---
+
+## Working at Better
+
+Software engineering is more than writing good code. Ultimately, software must help a company achieve its goals and generate real business value. When engineers understand the business, they ask "why" more often, challenge requirements when needed, and make better product decisions based on data.
+
+Being a **product-minded engineer** means:
+
+1. Suggesting ideas and improvements, not just following specifications.
+2. Understanding business goals, user behavior, and relevant data.
+3. Being curious and wanting to understand the “why.”
+4. Communicating well and building trust with non-engineers.
+5. Considering both product and engineering trade-offs.
+6. Handling edge cases practically without unnecessary work.
+7. Seeking early feedback to validate features.
+8. Taking end-to-end ownership and caring about real-world impact.
+
+**Example:**  
+If 60% of users have small screens while developers use 4K monitors, UI decisions may not reflect real user experience. Knowing your audience avoids wasted work.
+
+Engineers should regularly review user analytics and error reports to better understand how their product is being used.
+
+---
+
+## Better GitHub Templates
+
+We maintain templates to bootstrap new applications:
+
+- **Flask + React Template:** https://github.com/jalantechnologies/flask-react-template  
+- **React Native Template:** https://github.com/jalantechnologies/react-native-template  
+
+It is important to understand not only *how* these templates work but also *why* architectural decisions were made.
+
+Recommended videos:
+
+- **Maintainable Frontends:** https://www.loom.com/share/c4352f7c0be949e8bc0377dbcba15daa  
+- **How We Build Backends:** https://www.loom.com/share/e51d50cd8bec4851a2a8718bdc6e34d5
+
+---
+
+## Raising PRs
+
+We encourage engineers to raise a PR **daily**, once their work for the day is complete.  
+When creating PRs, please follow these guidelines:
+
+- [Things to watch out for when raising PRs](/engineering/pr-etiquette)
+- [How to write better code comments](https://dev.to/adammc331/todo-write-a-better-comment-4c8c)
+- [How to name automated tests](https://markus.oberlehner.net/blog/naming-your-unit-tests-it-should-vs-given-when-then/)
+- [How to write better commit messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+- [How to keep your code healthy](https://medium.com/@learnstuff.io/broken-window-theory-in-software-development-bef627a1ce99)
+
+---
+
+## Important Soft Skills
+
+1. **Avoid repeating mistakes** — Learn from them and apply feedback.
+2. **Learning aptitude** — Ability to deeply learn new concepts and apply them effectively.
+3. **Problem-solving** — Find solutions independently, especially around unfamiliar technologies.
+4. **Code quality** — Strong understanding of fundamentals and writing clean, maintainable code.
+5. **Communication** — Explain your thoughts clearly and concisely.
+6. **Commitment** — Deliver what you promise and support your team and clients.
+
+---
+
+## Appendix
+
+- [Lead Roles & Responsibilities](/engineering/lead)
+
