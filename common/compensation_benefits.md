@@ -6,7 +6,7 @@ Here's what you get when you work at Better.
 We're a fully remote company. You can work from anywhere as long as you have a stable internet connection and overlap with your team for at least 4 working hours a day.
 
 **Laptop Policy**
-We provide laptops to full-time employees (FTEs). This usually takes 2–3 weeks after joining. Please have a personal machine available to work from during this initial period.
+We provide laptops to full-time employees (FTEs). Laptops are provisioned after you complete at least one month from your date of joining. Please have a personal machine available to work from during this initial period.
 
 ### Compensation
 Salary is credited on or before the 5th business day of the following month.
