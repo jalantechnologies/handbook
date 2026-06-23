@@ -32,7 +32,7 @@ We also draw a firm line: lying to teammates or clients is non-negotiable and ma
 We offer a one-month notice period to help with transitions and job search support wherever possible.
 
 ## 1:1 with Jai
-We are still a small company, and have a flat hierarchy. 1:1 is a great tool that you can use to bring up your wins, concerns, get feedback or anything that you want to talk related to work. You can book a monthly 1:1 with Jai [here](https://outlook.office.com/bookwithme/user/f60bbd0e6a6144a098592545d9c6e9fb@bettrhq.com/meetingtype/FAMP3-Pqv0Sjyk5uq4scig2?anonymous&ismsaljsauthenabled&ep=mcard). This is your time—use it intentionally.
+We are still a small company, and have a flat hierarchy. 1:1 is a great tool that you can use to bring up your wins, concerns, get feedback or anything that you want to talk related to work. You can book a monthly 1:1 with Jai [here](https://outlook.office.com/bookwithme/user/f60bbd0e6a6144a098592545d9c6e9fb@btr.group/meetingtype/FAMP3-Pqv0Sjyk5uq4scig2?anonymous&ismsaljsauthenabled&ep=mcard). This is your time—use it intentionally.
 
 **What to Bring**:
 1. Your top 1–2 priorities since our last 1:1

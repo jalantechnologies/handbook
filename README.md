@@ -5,7 +5,7 @@
 - **Better Marketing**: Digital marketing agency to grow businesses using digital channels with art, science and data.
 - **Better AI**: AI first solutions in healthcare, banking, manufacturing and technology sectors.
 
-The rest of the document talks about our values and how we operate. If you have any feedback on how we can improve, please write to Jai at jjalan@bettrhq.com
+The rest of the document talks about our values and how we operate. If you have any feedback on how we can improve, please write to Jai at jjalan@btr.group
 
 ## Company Values
 Over time, we have realized that we cannot serve our customers if we are not operating individually and as a company, without these values:
