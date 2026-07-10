@@ -30,3 +30,6 @@ If you're a full-time employee and expecting a child, we offer paid parental lea
 
 ### Learning & Development
 We provide access to paid courses, certifications, and tools that help you grow in your role. If there's something specific you'd like to pursue, discuss it with your manager — we're happy to support learning that adds value to your work.
+
+Subscriptions for AI tools are not provided to associates.
+Associates are expected to make use of their student co-pilot subscriptions for AI coding tools such as GitHub Copilot, Claude, and ChatGPT as part of their work.
