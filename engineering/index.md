@@ -28,6 +28,9 @@ git config --global diff.colorMoved zebra
 ####  IDE
 Every team member has their preference but we generally use VSCode. Please also install a [prettier plugin](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) to make sure the code you write in any project is well formatted.
 
+#### AI Tools
+Associates are expected to make use of their student GitHub Copilot subscriptions while working, in order to improve productivity and code quality.
+
 ## Working at Better:
 Software engineering is much more than writing good code. Ultimately, software should help a company achieve its goals and make money, both from new and existing sources. If it doesn't do that, it's not fulfilling its purpose. When software developers understand the business better, they can ask "why" more often. They can question the requirements and design to understand where the project fits into the business' overall goals. With this knowledge, they can make informed decisions about the product based on data. By being more engaged, developers can earn the client's trust, take more ownership, and hopefully create a successful product. Here are some key traits of product-minded engineers:
 
