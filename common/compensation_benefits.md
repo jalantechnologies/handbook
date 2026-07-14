@@ -13,13 +13,8 @@ If you join in the middle of a month, your salary is prorated based on actual da
 ### Tooling & Equipment
 We give you the tools to do your best work.
 
-**Laptop**
-We provide laptops to full-time employees (FTEs). This usually takes 2–3 weeks after joining, so please have a personal machine available to work from during this initial period.
-
-**AI Subscriptions**
-AI is core to how we work, so we fund the right tools for your role. Full-time engineers get a paid coding assistant such as Claude Max, and other full-time roles get the AI subscriptions that fit their work — talk to your manager about what you need.
-
-Associates (interns) are expected to use the free and student-subsidised tools available to them, most of which are free with a college ID or student email. [GitHub Copilot](https://education.github.com), [Google Gemini](https://gemini.google/students/), [Google Colab](https://colab.research.google.com), and [Perplexity](https://www.perplexity.ai) are all good options. These student offers change often, so check the current terms before signing up.
+- **Laptop** — We provide laptops to full-time employees (FTEs). This usually takes 2–3 weeks after joining, so please have a personal machine available to work from during this initial period.
+- **AI Subscriptions** — AI is core to how we work, so we fund the right tools for your role. Full-time engineers get a paid coding assistant such as Claude Max, and other full-time roles get the AI subscriptions that fit their work — talk to your manager about what you need. Associates (interns) are expected to use the free and student-subsidised tools available to them, most of which are free with a college ID or student email. [GitHub Copilot](https://education.github.com), [Google Gemini](https://gemini.google/students/), [Google Colab](https://colab.research.google.com), and [Perplexity](https://www.perplexity.ai) are all good options. These student offers change often, so check the current terms before signing up.
 
 ### Leaves & Time Off
 All team members are entitled to 12 paid leaves, 6 sick leaves, and 14 public holidays in a year.
