@@ -6,7 +6,11 @@ Here's what you get when you work at Better.
 We're a fully remote company. You can work from anywhere as long as you have a stable internet connection and overlap with your team for at least 4 working hours a day.
 
 **Laptop Policy**
-We provide laptops to full-time employees (FTEs). This usually takes 2–3 weeks after joining. Please have a personal machine available to work from during this initial period.
+### Tooling & Equipment
+We give you the tools to do your best work.
+
+- **Laptop**: We provide laptops to full-time employees (FTEs). This usually takes 1 month after joining, so please have a personal machine available to work from during this initial period.
+- **AI tools**: AI is core to how we work, so we provide the right tools for your role. Full-time engineers get a paid coding assistant such as Claude Max. Other full-time roles get the AI tools that fit their work — talk to your manager about what you need. Associates use free and student-subsidized tools such as GitHub Copilot, Google Gemini, Google Colab, and Perplexity.
 
 ### Compensation
 Salary is credited on or before the 5th business day of the following month.
