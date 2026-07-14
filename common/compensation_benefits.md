@@ -8,7 +8,7 @@ We're a fully remote company on a 5-day work week (Monday to Friday). Work from 
 ### Compensation
 Salary is paid by the 5th business day of the next month.
 
-If you join mid-month, we adjust your first salary for the days you worked. Join on Jan 12 with a INR 50,000 salary and you'll get INR 32,258 for the 20 days you worked, paid by Feb 5.
+If you join mid-month, we adjust your first salary for the days you worked. For example, if your salary is INR 50,000 and you join on Jan 12, you'll be paid INR 32,258 (= 50,000 × 20 / 31), credited by Feb 5.
 
 ### Tooling & Equipment
 We give you the tools to do your best work.
