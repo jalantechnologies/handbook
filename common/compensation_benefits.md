@@ -5,13 +5,30 @@ Here's what you get when you work at Better.
 ### Remote-Friendly Work
 We're a fully remote company. You can work from anywhere as long as you have a stable internet connection and overlap with your team for at least 4 working hours a day.
 
-**Laptop Policy**
-We provide laptops to full-time employees (FTEs). This usually takes 2–3 weeks after joining. Please have a personal machine available to work from during this initial period.
-
 ### Compensation
 Salary is credited on or before the 5th business day of the following month.
 
 If you join in the middle of a month, your salary is prorated based on actual days worked — for example, if your salary is INR 50,000 and you join on Jan 12, you'll be paid INR 32,258 (= 50,000 × 20 / 31), credited by Feb 5.
+
+### Tooling & Equipment
+We give you the tools to do your best work. What you get depends on your role.
+
+**Laptop**
+We provide laptops to full-time employees (FTEs). This usually takes 2–3 weeks after joining, so please have a personal machine available to work from during this initial period.
+
+**AI Subscriptions**
+AI is core to how we work, so we fund the right tools for your role.
+
+- **Full-time engineers** get a paid coding-assistant subscription, such as Claude Max, to use day to day.
+- **Full-time non-engineering roles** get the AI subscriptions relevant to their function (for example, research or writing assistants). Discuss what you need with your manager.
+- **Associates (interns)** are expected to use the free and student-subsidised AI tools available to them rather than a company-paid plan. Most are free with a valid college ID or student email. Good options include:
+  - [GitHub Copilot](https://education.github.com) — free for verified students through GitHub Education, and works inside VS Code and JetBrains IDEs.
+  - [Google Gemini](https://gemini.google/students/) — free and student tiers are frequently available to Indian college students; check the current offer before signing up.
+  - [Google Colab](https://colab.research.google.com) — free cloud Python notebooks with GPU access.
+  - [NotebookLM](https://notebooklm.google.com) — free research and study assistant grounded in your own documents.
+  - [Perplexity](https://www.perplexity.ai) — research assistant with a free tier and a discounted student plan.
+
+  Student offers change often, so confirm the latest terms on each provider's page. If a tool you need isn't available for free, raise it with your manager.
 
 ### Leaves & Time Off
 All team members are entitled to 12 paid leaves, 6 sick leaves, and 14 public holidays in a year.
