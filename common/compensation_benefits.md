@@ -34,6 +34,3 @@ If you're a full-time employee and expecting a child, we offer paid parental lea
 
 ### Learning & Development
 We provide access to paid courses, certifications, and tools that help you grow in your role. If there's something specific you'd like to pursue, discuss it with your manager — we're happy to support learning that adds value to your work.
-
-### AI Tooling
-We provide AI tools appropriate to your role. Full-time employees (FTEs) are given access to tools suited to their work, such as Claude Max. Associates are not provided separate subscriptions for AI tools and are expected to use their student co-pilot subscriptions for AI coding tools such as GitHub Copilot, Claude, and ChatGPT as part of their work.
