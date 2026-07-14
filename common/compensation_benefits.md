@@ -3,7 +3,7 @@
 Here's what you get when you work at Better.
 
 ### Remote-Friendly Work
-We're a fully remote company. Work from anywhere, as long as you have a stable internet connection and overlap with your team for at least 4 hours a day.
+We're a fully remote company on a 5-day work week (Monday to Friday). Work from anywhere, as long as you have a stable internet connection and overlap with your team for at least 4 hours a day.
 
 ### Compensation
 Salary is paid by the 5th business day of the next month.
