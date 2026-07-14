@@ -3,33 +3,33 @@
 Here's what you get when you work at Better.
 
 ### Remote-Friendly Work
-We're a fully remote company. You can work from anywhere as long as you have a stable internet connection and overlap with your team for at least 4 working hours a day.
+We're a fully remote company. Work from anywhere, as long as you have a stable internet connection and overlap with your team for at least 4 hours a day.
 
 ### Compensation
-Salary is credited on or before the 5th business day of the following month.
+Salary is paid by the 5th business day of the next month.
 
-If you join in the middle of a month, your salary is prorated based on actual days worked — for example, if your salary is INR 50,000 and you join on Jan 12, you'll be paid INR 32,258 (= 50,000 × 20 / 31), credited by Feb 5.
+If you join mid-month, we adjust your first salary for the days you worked. Join on Jan 12 with a INR 50,000 salary and you'll get INR 32,258 for the 20 days you worked, paid by Feb 5.
 
 ### Tooling & Equipment
 We give you the tools to do your best work.
 
-- **Laptop** — We provide laptops to full-time employees (FTEs). This usually takes 2–3 weeks after joining, so please have a personal machine available to work from during this initial period.
-- **AI Subscriptions** — AI is core to how we work, so we fund the right tools for your role. Full-time engineers get a paid coding assistant such as Claude Max, and other full-time roles get the AI subscriptions that fit their work — talk to your manager about what you need. Associates (interns) are expected to use the free and student-subsidised tools available to them, most of which are free with a college ID or student email. [GitHub Copilot](https://education.github.com), [Google Gemini](https://gemini.google/students/), [Google Colab](https://colab.research.google.com), and [Perplexity](https://www.perplexity.ai) are all good options. These student offers change often, so check the current terms before signing up.
+- **Laptop** — We provide laptops to full-time employees. This usually takes 2–3 weeks after joining, so keep a personal machine handy to work from until then.
+- **AI tools** — AI is core to how we work, so we pay for the right tools for your role. Full-time engineers get a paid coding assistant such as Claude Max, and other full-time roles get the AI tools that fit their work — ask your manager for what you need. Associates (interns) use the free and student tools available to them, most of which are free with a college ID or student email: [GitHub Copilot](https://education.github.com), [Google Gemini](https://gemini.google/students/), [Google Colab](https://colab.research.google.com), and [Perplexity](https://www.perplexity.ai). Student offers change often, so check the current terms before you sign up.
 
 ### Leaves & Time Off
-All team members are entitled to 12 paid leaves, 6 sick leaves, and 14 public holidays in a year.
+You get 12 paid leaves, 6 sick leaves, and 14 public holidays a year.
 
-Leave starts accruing from your first month — if you join on or before the 15th, you accrue one full day of paid leave that month; if you join after the 15th, you accrue half a day. Unused paid leaves can be carried forward to the next year, up to a maximum of 6 days. Sick leaves expire at year-end and cannot be carried forward.
+Leaves build up from your first month. Join on or before the 15th and you earn a full day that month; join after the 15th and you earn half a day. You can carry up to 6 unused paid leaves into the next year. Sick leaves reset each year and don't carry over.
 
-After completing one year at the company, you become eligible to encash any unused paid leaves. Please note that sick leaves are not eligible for encashment. We do not support taking advance leave — you may only use what you've already earned.
+After one year, you can cash out unused paid leaves. Sick leaves can't be cashed out. You can only take leave you've already earned — no advance leave.
 
-During your notice period, no new leaves are credited and you are expected not to take any time off. If you forget to apply for leave in Keka, we'll auto-adjust it from your balance so there's no confusion.
+During your notice period, you don't earn new leaves and shouldn't take time off. If you take leave but forget to log it in Keka, we'll deduct it from your balance.
 
 ### Health Insurance
-Full-time employees (FTEs) are covered under a group health plan that includes INR 3,00,000 coverage for you, your spouse, and your children. The plan also includes access to remote doctor consultations.
+Full-time employees get a group health plan with INR 3,00,000 coverage for you, your spouse, and your children. It also includes remote doctor consultations.
 
 ### Parental Leave
-If you're a full-time employee and expecting a child, we offer paid parental leave to support you during this time. Maternity leave is 6 months paid, and paternity leave is 1 month paid. Please reach out to HR when you're ready to plan this out.
+Full-time employees get paid parental leave: 6 months for maternity, 1 month for paternity. Talk to HR when you want to plan it.
 
 ### Learning & Development
-We provide access to paid courses, certifications, and tools that help you grow in your role. If there's something specific you'd like to pursue, discuss it with your manager — we're happy to support learning that adds value to your work.
+We pay for courses, certifications, and tools that help you grow in your role. If there's something you want to pursue, discuss it with your manager.
