@@ -19,11 +19,12 @@ We give you the tools to do your best work.
 ### Leaves & Time Off
 You get 12 paid leaves, 6 sick leaves, and 14 public holidays a year.
 
-You start earning leave from your first month. If you join on or before the 15th, you get a full day for that month. If you join after the 15th, you get half a day. At the end of the year, you can carry over up to 6 unused paid leaves. Sick leaves don't carry over.
+You start earning leave from your first month. If you join on or before the 15th, you get a full day for that month. If you join after the 15th, you get half a day.
 
-Once you've been here a year, you can cash out unused paid leaves. Sick leaves can't be cashed out. You can only take leave you've already earned, so there's no borrowing against future leave.
+- **Paid leaves**: At the end of the year, you can carry over up to 6 unused paid leaves. Once you've been here a year, you can also cash out unused paid leaves.
+- **Sick leaves**: These don't carry over and can't be cashed out.
 
-During your notice period, you stop earning new leaves and shouldn't take time off. If you take leave but forget to log it in Keka, we'll deduct it from your balance.
+You can only take leave you've already earned, so there's no borrowing against future leave. During your notice period, you stop earning new leaves and shouldn't take time off. If you take leave but forget to log it in Keka, we'll deduct it from your balance.
 
 ### Health Insurance
 Full-time employees get a group health plan with INR 3,00,000 coverage for you, your spouse, and your children. It also includes remote doctor consultations.
