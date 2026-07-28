@@ -45,7 +45,7 @@ _Imagine a situation where 60% of users are on small laptops, but the developmen
 Understanding the user base in this scenario can lead to better product development. Knowing how users interact with a product can help developers push back on client requests or suggest better resource usage. Software engineers should also regularly review user analytics to understand the audience and their behaviors. Tools like Google Analytics and error reporting help with this.
 
 ### Better Github Templates
-We maintain [flask-react-template](github.com/jalantechnologies/flask-react-template) and [react-native-template](https://github.com/jalantechnologies/react-native-template) to bootstrap new applications for web and mobile respectively. We recommend you to make sure you understand the templates, and more importantly "why" behind the architecture decision made. These two videos would give a basic overview:
+We maintain [flask-react-template](https://github.com/jalantechnologies/flask-react-template) and [react-native-template](https://github.com/jalantechnologies/react-native-template) to bootstrap new applications for web and mobile respectively. We recommend you to make sure you understand the templates, and more importantly "why" behind the architecture decision made. These two videos would give a basic overview:
 - [How to build maintainable frontends that future dev's would thank you for](https://www.loom.com/share/c4352f7c0be949e8bc0377dbcba15daa)
 - [How we think about building backend](https://www.loom.com/share/e51d50cd8bec4851a2a8718bdc6e34d5)
 
