@@ -57,7 +57,12 @@ layout: default
 - [ ] **Clean up** - Debug code, console.log, and comments make code unprofessional
 - [ ] **All previous feedback addressed** - Ignoring feedback damages team relationships
 
-## 5. Timeline
+## 5. During PR Review
+
+- **Notify when resolved** - Message the project channel on Teams once all comments are addressed. Reviewers aren't notified otherwise, so the PR goes stale and review drags on.
+- **Talk out disagreements** - Book a short call instead of a long comment thread when opinions differ significantly. Working through it together is faster than going back and forth in writing.
+
+## 6. Timeline
 
 Give reviewers 24 hours - Quality review takes time. Follow up if blocking other work.
 
