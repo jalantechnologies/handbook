@@ -25,6 +25,13 @@ git config --global fetch.prune true
 git config --global diff.colorMoved zebra
 ```
 
+
+#### Vault Config
+Better uses a self hosted vault warden service fro storing credentials. It is recommended you gain access to it so you can use the correct credentials while using services like Loom.
+
+After you have gained access to the vault, you will need to create a master password to access your btr vault. Once your join request has been approved by the administrators, you will be able to access all the stored credentials.
+
+
 ####  IDE
 Every team member has their preference but we generally use VSCode. Please also install a [prettier plugin](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) to make sure the code you write in any project is well formatted.
 
