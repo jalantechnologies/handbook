@@ -26,10 +26,17 @@ git config --global diff.colorMoved zebra
 ```
 
 
-#### Vault Config
+### Vault Config
 Better uses a self hosted vault warden service for storing credentials (https://vault.btr.group). It is recommended you gain access to it so you can use the correct credentials while using services like Loom.
 
-After you have gained access to the vault, you will need to create a master password to access your Better vault. Once your join request has been approved by the administrators, you will be able to access all the stored credentials.
+#### How to get access
+1. Send a message in the IT Channel requesting access to the Vault
+2. You will receive an invite to join the organization.
+3. Accepting the invite will lead you to the account page where you need to login using your credentials that you use at Better.
+4. Keep in mind that the master password cannot be set by the admins so make sure to note it down somewhere.
+5. Once you accept the invite, wait for someone to accept you access request.
+6. If it takes longer than expected then make sure to drop a message in the IT channel regarding the same.
+7. Once your join request has been accepted you will be able to access the credentials.
 
 
 ####  IDE
