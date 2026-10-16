@@ -25,6 +25,19 @@ git config --global fetch.prune true
 git config --global diff.colorMoved zebra
 ```
 
+
+### Vault Config
+Better uses a self hosted vault warden service for storing credentials (https://vault.btr.group). It is recommended you gain access to it so you can use the correct credentials while using services like Loom.
+
+#### How to get access
+1. Send a message in the IT Channel requesting access to the Vault
+2. You will receive an invite to join the organization.
+3. Accepting the invite will lead you to the account page where you need to login using your credentials that you use at Better.
+4. Keep in mind that the master password cannot be set by the admins so make sure to note it down somewhere.
+5. Once you accept the invite, wait for someone to accept you access request.
+6. If it takes longer than expected then make sure to drop a message in the IT channel regarding the same.
+7. Once your join request has been accepted you will be able to access the credentials.
+
 ####  IDE
 Every team member has their preference but we generally use VSCode. Please also install a [prettier plugin](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) to make sure the code you write in any project is well formatted.
 
