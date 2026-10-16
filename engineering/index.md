@@ -38,7 +38,6 @@ Better uses a self hosted vault warden service for storing credentials (https://
 6. If it takes longer than expected then make sure to drop a message in the IT channel regarding the same.
 7. Once your join request has been accepted you will be able to access the credentials.
 
-
 ####  IDE
 Every team member has their preference but we generally use VSCode. Please also install a [prettier plugin](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) to make sure the code you write in any project is well formatted.
 
