@@ -56,6 +56,7 @@ Other than your primary project workspace, these are common channels that you sh
 - [Expense](https://teams.microsoft.com/l/channel/19%3A7693d805e6d94adabc97929712eec78a%40thread.tacv2/Expense?groupId=76c0380b-15c1-4a18-8308-24c4abc83332&tenantId=79836b2a-53cc-4854-81b4-ba2d7c9f2726): Useful to raise requests to accounting team to make payments on any third party services.
 - [HR](https://teams.microsoft.com/l/channel/19%3Ad93be521fa3540f795cdaf77e1ed2108%40thread.tacv2/HR?groupId=76c0380b-15c1-4a18-8308-24c4abc83332&tenantId=79836b2a-53cc-4854-81b4-ba2d7c9f2726) - Useful to raise questions, concerns or give feedback about company policies or operating procedure.
 - [Platform](https://teams.microsoft.com/l/channel/19%3Ah7gJyO8CrLPlcHqEC8Yo-8NaL2UOVj11rlLBaOb3uuQ1%40thread.tacv2/Platform?groupId=76c0380b-15c1-4a18-8308-24c4abc83332&tenantId=79836b2a-53cc-4854-81b4-ba2d7c9f2726) - Useful to raise request for Github repo access, new software project setups, CI/CD issues and concerns related to software product infrastructure.
+- [Watercooler](https://teams.cloud.microsoft/l/channel/19%3Af6d134198ee34cb2bec0129489240bca%40thread.tacv2/Watercooler?groupId=76c0380b-15c1-4a18-8308-24c4abc83332&tenantId=79836b2a-53cc-4854-81b4-ba2d7c9f2726) - Useful for cross-team interaction, sharing thoughts, having fun, and engaging in candid conversations with teammates beyond day-to-day work.
 
 ## Meetings
 It is expected for you to attend key team meetings. It helps everyone to be on the same page.
